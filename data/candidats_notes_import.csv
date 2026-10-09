@@ -1,0 +1,750 @@
+type_resultat,annee,code,nom,prenom,date_naissance,lieu_naissance,telephone,total_points,total_sur,mention,statut,serie,ecole,matiere,note,coefficient
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,Économie,208,400
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,Histoire et Géographie,178,400
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,Philosophie,106,200
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,Créole,138,200
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,Mathématiques,122,200
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,Anglais / Espagnol,136,200
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,Physique,59,100
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,SVT - Sciences de la Vie et de la Terre,60,100
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien,Chimie,58,100
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours,Mathématiques,252,400
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours,Physique,257,400
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours,Philosophie,127,200
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours,Français / Chimie,119,200
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours,Créole,99,200
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours,Anglais / Espagnol,83,200
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours,Histoire et Géographie,96,200
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours,SVT - Sciences de la Vie et de la Terre,46,100
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours,SVT / Biologie,245,400
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours,Chimie,222,300
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours,Mathématiques,152,200
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours,Physique,172,200
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours,Philosophie,152,200
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours,Créole,144,200
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours,Anglais / Espagnol,112,200
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours,Histoire et Géographie,135,200
+bac_unique,2024,0856599395,MATHURIN,Johnny,2003-02-09,Carrefour,+50934063616,1316.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Philosophie / Français,307,400
+bac_unique,2024,0856599395,MATHURIN,Johnny,2003-02-09,Carrefour,+50934063616,1316.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Créole,222,300
+bac_unique,2024,0856599395,MATHURIN,Johnny,2003-02-09,Carrefour,+50934063616,1316.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Anglais / Espagnol,170,300
+bac_unique,2024,0856599395,MATHURIN,Johnny,2003-02-09,Carrefour,+50934063616,1316.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Histoire et Géographie,239,300
+bac_unique,2024,0856599395,MATHURIN,Johnny,2003-02-09,Carrefour,+50934063616,1316.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Arts / Éducation Artistique,130,200
+bac_unique,2024,0856599395,MATHURIN,Johnny,2003-02-09,Carrefour,+50934063616,1316.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Mathématiques,134,200
+bac_unique,2024,0856599395,MATHURIN,Johnny,2003-02-09,Carrefour,+50934063616,1316.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Sciences (Physique / Chimie / SVT),114,200
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Économie,211,400
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Histoire et Géographie,193,400
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Philosophie,147,200
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Créole,150,200
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Mathématiques,127,200
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Anglais / Espagnol,129,200
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Physique,67,100
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,SVT - Sciences de la Vie et de la Terre,81,100
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Chimie,69,100
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Mathématiques,228,400
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Physique,312,400
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Philosophie,129,200
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Français / Chimie,124,200
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Créole,155,200
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Anglais / Espagnol,189,200
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Histoire et Géographie,103,200
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,SVT - Sciences de la Vie et de la Terre,76,100
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars,SVT / Biologie,210,400
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars,Chimie,223,300
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars,Mathématiques,161,200
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars,Physique,115,200
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars,Philosophie,93,200
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars,Créole,123,200
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars,Anglais / Espagnol,123,200
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars,Histoire et Géographie,119,200
+bac_unique,2025,0125583179,SÉNAT,Darline,2003-02-28,Hinche,+50947155766,1296.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Philosophie / Français,270,400
+bac_unique,2025,0125583179,SÉNAT,Darline,2003-02-28,Hinche,+50947155766,1296.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Créole,210,300
+bac_unique,2025,0125583179,SÉNAT,Darline,2003-02-28,Hinche,+50947155766,1296.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Anglais / Espagnol,221,300
+bac_unique,2025,0125583179,SÉNAT,Darline,2003-02-28,Hinche,+50947155766,1296.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Histoire et Géographie,193,300
+bac_unique,2025,0125583179,SÉNAT,Darline,2003-02-28,Hinche,+50947155766,1296.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Arts / Éducation Artistique,129,200
+bac_unique,2025,0125583179,SÉNAT,Darline,2003-02-28,Hinche,+50947155766,1296.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Mathématiques,135,200
+bac_unique,2025,0125583179,SÉNAT,Darline,2003-02-28,Hinche,+50947155766,1296.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Sciences (Physique / Chimie / SVT),138,200
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,Économie,237,400
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,Histoire et Géographie,307,400
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,Philosophie,48,200
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,Créole,82,200
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,Mathématiques,115,200
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,Anglais / Espagnol,119,200
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,Physique,57,100
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,SVT - Sciences de la Vie et de la Terre,49,100
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir,Chimie,62,100
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir,Mathématiques,298,400
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir,Physique,299,400
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir,Philosophie,138,200
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir,Français / Chimie,146,200
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir,Créole,166,200
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir,Anglais / Espagnol,160,200
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir,Histoire et Géographie,126,200
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir,SVT - Sciences de la Vie et de la Terre,80,100
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours,SVT / Biologie,208,400
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours,Chimie,149,300
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours,Mathématiques,95,200
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours,Physique,117,200
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours,Philosophie,77,200
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours,Créole,42,200
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours,Anglais / Espagnol,45,200
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours,Histoire et Géographie,117,200
+bac_unique,2024,0883760773,TOUSSAINT,Kerline,2004-08-06,Delmas,+50944090963,1431.00,1900,Bien,admis,LA,Institution Saint-Joseph,Philosophie / Français,281,400
+bac_unique,2024,0883760773,TOUSSAINT,Kerline,2004-08-06,Delmas,+50944090963,1431.00,1900,Bien,admis,LA,Institution Saint-Joseph,Créole,294,300
+bac_unique,2024,0883760773,TOUSSAINT,Kerline,2004-08-06,Delmas,+50944090963,1431.00,1900,Bien,admis,LA,Institution Saint-Joseph,Anglais / Espagnol,216,300
+bac_unique,2024,0883760773,TOUSSAINT,Kerline,2004-08-06,Delmas,+50944090963,1431.00,1900,Bien,admis,LA,Institution Saint-Joseph,Histoire et Géographie,186,300
+bac_unique,2024,0883760773,TOUSSAINT,Kerline,2004-08-06,Delmas,+50944090963,1431.00,1900,Bien,admis,LA,Institution Saint-Joseph,Arts / Éducation Artistique,172,200
+bac_unique,2024,0883760773,TOUSSAINT,Kerline,2004-08-06,Delmas,+50944090963,1431.00,1900,Bien,admis,LA,Institution Saint-Joseph,Mathématiques,149,200
+bac_unique,2024,0883760773,TOUSSAINT,Kerline,2004-08-06,Delmas,+50944090963,1431.00,1900,Bien,admis,LA,Institution Saint-Joseph,Sciences (Physique / Chimie / SVT),133,200
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,Économie,267,400
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,Histoire et Géographie,305,400
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,Philosophie,157,200
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,Créole,177,200
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,Mathématiques,189,200
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,Anglais / Espagnol,151,200
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,Physique,67,100
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,SVT - Sciences de la Vie et de la Terre,89,100
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars,Chimie,43,100
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Mathématiques,197,400
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Physique,173,400
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Philosophie,64,200
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Français / Chimie,79,200
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Créole,99,200
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Anglais / Espagnol,81,200
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Histoire et Géographie,111,200
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,SVT - Sciences de la Vie et de la Terre,39,100
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier,SVT / Biologie,332,400
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier,Chimie,161,300
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier,Mathématiques,105,200
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier,Physique,111,200
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier,Philosophie,145,200
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier,Créole,148,200
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier,Anglais / Espagnol,128,200
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier,Histoire et Géographie,129,200
+bac_unique,2024,0268144218,JACQUES,Franky,2006-09-08,Port-de-Paix,+50938880803,1055.00,1900,Passable,admis,LA,Lycée de Jacmel,Philosophie / Français,226,400
+bac_unique,2024,0268144218,JACQUES,Franky,2006-09-08,Port-de-Paix,+50938880803,1055.00,1900,Passable,admis,LA,Lycée de Jacmel,Créole,177,300
+bac_unique,2024,0268144218,JACQUES,Franky,2006-09-08,Port-de-Paix,+50938880803,1055.00,1900,Passable,admis,LA,Lycée de Jacmel,Anglais / Espagnol,159,300
+bac_unique,2024,0268144218,JACQUES,Franky,2006-09-08,Port-de-Paix,+50938880803,1055.00,1900,Passable,admis,LA,Lycée de Jacmel,Histoire et Géographie,123,300
+bac_unique,2024,0268144218,JACQUES,Franky,2006-09-08,Port-de-Paix,+50938880803,1055.00,1900,Passable,admis,LA,Lycée de Jacmel,Arts / Éducation Artistique,169,200
+bac_unique,2024,0268144218,JACQUES,Franky,2006-09-08,Port-de-Paix,+50938880803,1055.00,1900,Passable,admis,LA,Lycée de Jacmel,Mathématiques,99,200
+bac_unique,2024,0268144218,JACQUES,Franky,2006-09-08,Port-de-Paix,+50938880803,1055.00,1900,Passable,admis,LA,Lycée de Jacmel,Sciences (Physique / Chimie / SVT),102,200
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,Économie,231,400
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,Histoire et Géographie,181,400
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,Philosophie,80,200
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,Créole,107,200
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,Mathématiques,122,200
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,Anglais / Espagnol,132,200
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,Physique,66,100
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,SVT - Sciences de la Vie et de la Terre,67,100
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel,Chimie,45,100
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture,Mathématiques,49,400
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture,Physique,156,400
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture,Philosophie,113,200
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture,Français / Chimie,92,200
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture,Créole,107,200
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture,Anglais / Espagnol,84,200
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture,Histoire et Géographie,115,200
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture,SVT - Sciences de la Vie et de la Terre,31,100
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague,SVT / Biologie,329,400
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague,Chimie,201,300
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague,Mathématiques,122,200
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague,Physique,137,200
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague,Philosophie,77,200
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague,Créole,149,200
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague,Anglais / Espagnol,132,200
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague,Histoire et Géographie,107,200
+bac_unique,2025,0236094290,PÉTION,Lovely,2006-05-20,Gonaïves,+50931552510,1314.00,1900,Assez bien,admis,LA,Collège Canado-Haïtien,Philosophie / Français,259,400
+bac_unique,2025,0236094290,PÉTION,Lovely,2006-05-20,Gonaïves,+50931552510,1314.00,1900,Assez bien,admis,LA,Collège Canado-Haïtien,Créole,218,300
+bac_unique,2025,0236094290,PÉTION,Lovely,2006-05-20,Gonaïves,+50931552510,1314.00,1900,Assez bien,admis,LA,Collège Canado-Haïtien,Anglais / Espagnol,199,300
+bac_unique,2025,0236094290,PÉTION,Lovely,2006-05-20,Gonaïves,+50931552510,1314.00,1900,Assez bien,admis,LA,Collège Canado-Haïtien,Histoire et Géographie,222,300
+bac_unique,2025,0236094290,PÉTION,Lovely,2006-05-20,Gonaïves,+50931552510,1314.00,1900,Assez bien,admis,LA,Collège Canado-Haïtien,Arts / Éducation Artistique,135,200
+bac_unique,2025,0236094290,PÉTION,Lovely,2006-05-20,Gonaïves,+50931552510,1314.00,1900,Assez bien,admis,LA,Collège Canado-Haïtien,Mathématiques,159,200
+bac_unique,2025,0236094290,PÉTION,Lovely,2006-05-20,Gonaïves,+50931552510,1314.00,1900,Assez bien,admis,LA,Collège Canado-Haïtien,Sciences (Physique / Chimie / SVT),122,200
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Économie,268,400
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Histoire et Géographie,242,400
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Philosophie,148,200
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Créole,130,200
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Mathématiques,109,200
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Anglais / Espagnol,114,200
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Physique,64,100
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,SVT - Sciences de la Vie et de la Terre,63,100
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Chimie,66,100
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Mathématiques,159,400
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Physique,111,400
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Philosophie,96,200
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Français / Chimie,52,200
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Créole,20,200
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Anglais / Espagnol,53,200
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Histoire et Géographie,116,200
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,SVT - Sciences de la Vie et de la Terre,34,100
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier,SVT / Biologie,230,400
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier,Chimie,72,300
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier,Mathématiques,79,200
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier,Physique,71,200
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier,Philosophie,90,200
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier,Créole,109,200
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier,Anglais / Espagnol,75,200
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier,Histoire et Géographie,92,200
+bac_unique,2024,0624556192,SAINT-FLEUR,Widlene,2006-10-02,Miragoâne,+50931314201,1312.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Philosophie / Français,272,400
+bac_unique,2024,0624556192,SAINT-FLEUR,Widlene,2006-10-02,Miragoâne,+50931314201,1312.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Créole,161,300
+bac_unique,2024,0624556192,SAINT-FLEUR,Widlene,2006-10-02,Miragoâne,+50931314201,1312.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Anglais / Espagnol,210,300
+bac_unique,2024,0624556192,SAINT-FLEUR,Widlene,2006-10-02,Miragoâne,+50931314201,1312.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Histoire et Géographie,216,300
+bac_unique,2024,0624556192,SAINT-FLEUR,Widlene,2006-10-02,Miragoâne,+50931314201,1312.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Arts / Éducation Artistique,163,200
+bac_unique,2024,0624556192,SAINT-FLEUR,Widlene,2006-10-02,Miragoâne,+50931314201,1312.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Mathématiques,154,200
+bac_unique,2024,0624556192,SAINT-FLEUR,Widlene,2006-10-02,Miragoâne,+50931314201,1312.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier,Sciences (Physique / Chimie / SVT),136,200
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,Économie,160,400
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,Histoire et Géographie,190,400
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,Philosophie,60,200
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,Créole,84,200
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,Mathématiques,47,200
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,Anglais / Espagnol,79,200
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,Physique,54,100
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,SVT - Sciences de la Vie et de la Terre,54,100
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir,Chimie,47,100
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Mathématiques,200,400
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Physique,313,400
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Philosophie,106,200
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Français / Chimie,122,200
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Créole,112,200
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Anglais / Espagnol,141,200
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,Histoire et Géographie,131,200
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion,SVT - Sciences de la Vie et de la Terre,60,100
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars,SVT / Biologie,263,400
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars,Chimie,175,300
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars,Mathématiques,84,200
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars,Physique,117,200
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars,Philosophie,80,200
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars,Créole,130,200
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars,Anglais / Espagnol,133,200
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars,Histoire et Géographie,109,200
+bac_unique,2025,0182808850,ÉLIE,Rodlin,2006-05-22,Jacmel,+50938708530,868.00,1900,,ajourne,LA,Lycée de Jacmel,Philosophie / Français,190,400
+bac_unique,2025,0182808850,ÉLIE,Rodlin,2006-05-22,Jacmel,+50938708530,868.00,1900,,ajourne,LA,Lycée de Jacmel,Créole,134,300
+bac_unique,2025,0182808850,ÉLIE,Rodlin,2006-05-22,Jacmel,+50938708530,868.00,1900,,ajourne,LA,Lycée de Jacmel,Anglais / Espagnol,142,300
+bac_unique,2025,0182808850,ÉLIE,Rodlin,2006-05-22,Jacmel,+50938708530,868.00,1900,,ajourne,LA,Lycée de Jacmel,Histoire et Géographie,129,300
+bac_unique,2025,0182808850,ÉLIE,Rodlin,2006-05-22,Jacmel,+50938708530,868.00,1900,,ajourne,LA,Lycée de Jacmel,Arts / Éducation Artistique,77,200
+bac_unique,2025,0182808850,ÉLIE,Rodlin,2006-05-22,Jacmel,+50938708530,868.00,1900,,ajourne,LA,Lycée de Jacmel,Mathématiques,98,200
+bac_unique,2025,0182808850,ÉLIE,Rodlin,2006-05-22,Jacmel,+50938708530,868.00,1900,,ajourne,LA,Lycée de Jacmel,Sciences (Physique / Chimie / SVT),98,200
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,Économie,200,400
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,Histoire et Géographie,263,400
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,Philosophie,129,200
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,Créole,115,200
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,Mathématiques,157,200
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,Anglais / Espagnol,98,200
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,Physique,46,100
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,SVT - Sciences de la Vie et de la Terre,26,100
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir,Chimie,53,100
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph,Mathématiques,146,400
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph,Physique,183,400
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph,Philosophie,105,200
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph,Français / Chimie,75,200
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph,Créole,115,200
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph,Anglais / Espagnol,111,200
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph,Histoire et Géographie,77,200
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph,SVT - Sciences de la Vie et de la Terre,63,100
+perm_ns4,2025,0244469603,VALCIN,Mirlande,2003-06-14,Port-de-Paix,+50931294269,1321.00,1900,Assez bien,admis,SES,Lycée Toussaint Louverture,Économie,140,400
+perm_ns4,2024,0585223357,PAUL,Judith,2004-12-03,Cap-Haïtien,+50947472761,1115.00,1900,Passable,admis,SMP,Lycée Pierre Gentil,Mathématiques,152,400
+perm_ns4,2024,0585223357,PAUL,Judith,2004-12-03,Cap-Haïtien,+50947472761,1115.00,1900,Passable,admis,SMP,Lycée Pierre Gentil,Créole,88,200
+perm_ns4,2024,0565172784,RAYMOND,Esther,2005-08-18,Miragoâne,+50934175460,1390.00,1900,Bien,admis,SVT,Collège Jean Price Mars,SVT / Biologie,146,400
+perm_ns4,2024,0227900177,PREVIL,Naïka,2003-06-08,Petit-Goâve,+50942848673,697.00,1900,,ajourne,LA,Lycée Pierre Gentil,Philosophie / Français,164,400
+perm_ns4,2024,0227900177,PREVIL,Naïka,2003-06-08,Petit-Goâve,+50942848673,697.00,1900,,ajourne,LA,Lycée Pierre Gentil,Créole,119,300
+perm_ns4,2024,0227900177,PREVIL,Naïka,2003-06-08,Petit-Goâve,+50942848673,697.00,1900,,ajourne,LA,Lycée Pierre Gentil,Anglais / Espagnol,88,300
+perm_ns4,2024,0227900177,PREVIL,Naïka,2003-06-08,Petit-Goâve,+50942848673,697.00,1900,,ajourne,LA,Lycée Pierre Gentil,Histoire et Géographie,129,300
+perm_ns4,2024,0227900177,PREVIL,Naïka,2003-06-08,Petit-Goâve,+50942848673,697.00,1900,,ajourne,LA,Lycée Pierre Gentil,Arts / Éducation Artistique,81,200
+perm_ns4,2024,0227900177,PREVIL,Naïka,2003-06-08,Petit-Goâve,+50942848673,697.00,1900,,ajourne,LA,Lycée Pierre Gentil,Mathématiques,54,200
+perm_ns4,2024,0227900177,PREVIL,Naïka,2003-06-08,Petit-Goâve,+50942848673,697.00,1900,,ajourne,LA,Lycée Pierre Gentil,Sciences (Physique / Chimie / SVT),62,200
+perm_ns4,2024,0155402616,HYPPOLITE,Ruth,2004-02-09,Fort-Liberté,+50947419175,981.00,1900,Passable,admis,SES,Collège Jean Price Mars,Économie,157,400
+perm_ns4,2024,0155402616,HYPPOLITE,Ruth,2004-02-09,Fort-Liberté,+50947419175,981.00,1900,Passable,admis,SES,Collège Jean Price Mars,Philosophie,95,200
+perm_ns4,2024,0155402616,HYPPOLITE,Ruth,2004-02-09,Fort-Liberté,+50947419175,981.00,1900,Passable,admis,SES,Collège Jean Price Mars,Anglais / Espagnol,80,200
+perm_ns4,2024,0155402616,HYPPOLITE,Ruth,2004-02-09,Fort-Liberté,+50947419175,981.00,1900,Passable,admis,SES,Collège Jean Price Mars,SVT - Sciences de la Vie et de la Terre,44,100
+perm_ns4,2025,0741878080,VALCIN,Bedjine,2006-08-08,Jacmel,+50938161877,1158.00,1900,Assez bien,admis,SMP,Collège Saint-Louis de Gonzague,Mathématiques,141,400
+perm_ns4,2026,0296869670,MOMPREMIER,Daphnée,2005-09-21,Delmas,+50934104275,954.00,1900,Passable,admis,SVT,Lycée Toussaint Louverture,SVT / Biologie,179,400
+perm_ns4,2026,0296869670,MOMPREMIER,Daphnée,2005-09-21,Delmas,+50934104275,954.00,1900,Passable,admis,SVT,Lycée Toussaint Louverture,Chimie,90,300
+perm_ns4,2026,0296869670,MOMPREMIER,Daphnée,2005-09-21,Delmas,+50934104275,954.00,1900,Passable,admis,SVT,Lycée Toussaint Louverture,Anglais / Espagnol,98,200
+perm_ns4,2025,0978234302,FLEURY,Carl-Henry,2004-09-08,Port-au-Prince,+50947738882,1158.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Philosophie / Français,175,400
+perm_ns4,2025,0102924253,ZAMOR,Gaëlle,2006-04-01,Saint-Marc,+50934215187,1300.00,1900,Assez bien,admis,SES,Lycée de Jacmel,Économie,149,400
+perm_ns4,2024,0526029282,SIMÉON,Rodlin,2004-07-02,Hinche,+50931625084,1130.00,1900,Passable,admis,SMP,Collège Saint-Louis de Gonzague,Mathématiques,173,400
+perm_ns4,2025,0195275607,HYPPOLITE,Johnny,2003-05-22,Miragoâne,+50944347810,1267.00,1900,Assez bien,admis,SVT,Lycée de Jacmel,SVT / Biologie,180,400
+perm_ns4,2024,0200385302,BEAUVOIR,Kevin,2003-12-16,Hinche,+50944567834,1075.00,1900,Passable,admis,LA,Lycée de Jacmel,Philosophie / Français,158,400
+perm_ns4,2024,0648888654,JOSEPH,Samuel,2004-12-03,Léogâne,+50944285542,857.00,1900,,ajourne,SES,Collège Notre-Dame du Perpétuel Secours,Économie,172,400
+perm_ns4,2024,0648888654,JOSEPH,Samuel,2004-12-03,Léogâne,+50944285542,857.00,1900,,ajourne,SES,Collège Notre-Dame du Perpétuel Secours,Histoire et Géographie,131,400
+perm_ns4,2024,0648888654,JOSEPH,Samuel,2004-12-03,Léogâne,+50944285542,857.00,1900,,ajourne,SES,Collège Notre-Dame du Perpétuel Secours,Créole,99,200
+perm_ns4,2024,0648888654,JOSEPH,Samuel,2004-12-03,Léogâne,+50944285542,857.00,1900,,ajourne,SES,Collège Notre-Dame du Perpétuel Secours,Anglais / Espagnol,80,200
+perm_ns4,2024,0648888654,JOSEPH,Samuel,2004-12-03,Léogâne,+50944285542,857.00,1900,,ajourne,SES,Collège Notre-Dame du Perpétuel Secours,SVT - Sciences de la Vie et de la Terre,28,100
+perm_ns4,2026,0135188193,EXANTUS,Christopher,2006-12-15,Miragoâne,+50942957920,944.00,1900,,ajourne,SMP,Institution Saint-Joseph,Mathématiques,181,400
+perm_ns4,2026,0135188193,EXANTUS,Christopher,2006-12-15,Miragoâne,+50942957920,944.00,1900,,ajourne,SMP,Institution Saint-Joseph,Physique,157,400
+perm_ns4,2026,0135188193,EXANTUS,Christopher,2006-12-15,Miragoâne,+50942957920,944.00,1900,,ajourne,SMP,Institution Saint-Joseph,Créole,79,200
+perm_ns4,2026,0135188193,EXANTUS,Christopher,2006-12-15,Miragoâne,+50942957920,944.00,1900,,ajourne,SMP,Institution Saint-Joseph,Anglais / Espagnol,91,200
+perm_ns4,2025,0366644552,NELSON,Kevin,2004-07-25,Jérémie,+50938427563,1173.00,1900,Assez bien,admis,SVT,Lycée Toussaint Louverture,SVT / Biologie,172,400
+perm_ns4,2025,0366644552,NELSON,Kevin,2004-07-25,Jérémie,+50938427563,1173.00,1900,Assez bien,admis,SVT,Lycée Toussaint Louverture,Physique,94,200
+perm_ns4,2026,0164651324,CADET,Rose-Marie,2004-03-14,Pétion-Ville,+50938784310,955.00,1900,Passable,admis,LA,Collège Catts Pressoir,Philosophie / Français,183,400
+perm_ns4,2026,0164651324,CADET,Rose-Marie,2004-03-14,Pétion-Ville,+50938784310,955.00,1900,Passable,admis,LA,Collège Catts Pressoir,Créole,138,300
+perm_ns4,2026,0164651324,CADET,Rose-Marie,2004-03-14,Pétion-Ville,+50938784310,955.00,1900,Passable,admis,LA,Collège Catts Pressoir,Histoire et Géographie,77,300
+perm_ns4,2026,0164651324,CADET,Rose-Marie,2004-03-14,Pétion-Ville,+50938784310,955.00,1900,Passable,admis,LA,Collège Catts Pressoir,Arts / Éducation Artistique,98,200
+perm_ns4,2026,0239449733,MATHURIN,Marie-Ange,2005-02-13,Port-de-Paix,+50938531968,1098.00,1900,Passable,admis,SES,Collège Catts Pressoir,Économie,153,400
+perm_ns4,2024,0287688005,JOSEPH,Marie-Ange,2004-02-12,Jérémie,+50948632335,966.00,1900,Passable,admis,SMP,Lycée Philippe Guerrier,Mathématiques,140,400
+perm_ns4,2024,0287688005,JOSEPH,Marie-Ange,2004-02-12,Jérémie,+50948632335,966.00,1900,Passable,admis,SMP,Lycée Philippe Guerrier,Français / Chimie,99,200
+perm_ns4,2024,0287688005,JOSEPH,Marie-Ange,2004-02-12,Jérémie,+50948632335,966.00,1900,Passable,admis,SMP,Lycée Philippe Guerrier,Créole,89,200
+perm_ns4,2024,0287688005,JOSEPH,Marie-Ange,2004-02-12,Jérémie,+50948632335,966.00,1900,Passable,admis,SMP,Lycée Philippe Guerrier,SVT - Sciences de la Vie et de la Terre,49,100
+perm_ns4,2026,0114197559,DORVIL,Wilson,2005-07-22,Petit-Goâve,+50937651180,1027.00,1900,Passable,admis,SVT,Lycée Philippe Guerrier,SVT / Biologie,155,400
+perm_ns4,2026,0114197559,DORVIL,Wilson,2005-07-22,Petit-Goâve,+50937651180,1027.00,1900,Passable,admis,SVT,Lycée Philippe Guerrier,Chimie,100,300
+perm_ns4,2024,0404223373,JACQUES,Vanessa,2005-11-10,Delmas,+50931327535,1041.00,1900,Passable,admis,LA,Lycée Pierre Gentil,Philosophie / Français,143,400
+perm_ns4,2024,0404223373,JACQUES,Vanessa,2005-11-10,Delmas,+50931327535,1041.00,1900,Passable,admis,LA,Lycée Pierre Gentil,Créole,141,300
+perm_ns4,2024,0404223373,JACQUES,Vanessa,2005-11-10,Delmas,+50931327535,1041.00,1900,Passable,admis,LA,Lycée Pierre Gentil,Arts / Éducation Artistique,90,200
+perm_ns4,2025,0755894353,DÉSIR,Kevin,2006-10-12,Pétion-Ville,+50937136288,958.00,1900,Passable,admis,SES,Lycée Alexandre Pétion,Économie,141,400
+perm_ns4,2025,0755894353,DÉSIR,Kevin,2006-10-12,Pétion-Ville,+50937136288,958.00,1900,Passable,admis,SES,Lycée Alexandre Pétion,Philosophie,80,200
+perm_ns4,2025,0755894353,DÉSIR,Kevin,2006-10-12,Pétion-Ville,+50937136288,958.00,1900,Passable,admis,SES,Lycée Alexandre Pétion,Anglais / Espagnol,75,200
+perm_ns4,2024,0919125597,CHARLES,Christopher,2006-08-25,Hinche,+50942132802,686.00,1900,,ajourne,SMP,Lycée Alexandre Pétion,Mathématiques,144,400
+perm_ns4,2024,0919125597,CHARLES,Christopher,2006-08-25,Hinche,+50942132802,686.00,1900,,ajourne,SMP,Lycée Alexandre Pétion,Physique,95,400
+perm_ns4,2024,0919125597,CHARLES,Christopher,2006-08-25,Hinche,+50942132802,686.00,1900,,ajourne,SMP,Lycée Alexandre Pétion,Philosophie,72,200
+perm_ns4,2024,0919125597,CHARLES,Christopher,2006-08-25,Hinche,+50942132802,686.00,1900,,ajourne,SMP,Lycée Alexandre Pétion,Français / Chimie,72,200
+perm_ns4,2024,0919125597,CHARLES,Christopher,2006-08-25,Hinche,+50942132802,686.00,1900,,ajourne,SMP,Lycée Alexandre Pétion,Créole,75,200
+perm_ns4,2024,0919125597,CHARLES,Christopher,2006-08-25,Hinche,+50942132802,686.00,1900,,ajourne,SMP,Lycée Alexandre Pétion,Anglais / Espagnol,88,200
+perm_ns4,2024,0919125597,CHARLES,Christopher,2006-08-25,Hinche,+50942132802,686.00,1900,,ajourne,SMP,Lycée Alexandre Pétion,Histoire et Géographie,82,200
+perm_ns4,2025,0607163810,OCCÉAN,Marie-Ange,2006-03-19,Hinche,+50931419163,771.00,1900,,ajourne,SVT,Collège Catts Pressoir,SVT / Biologie,144,400
+perm_ns4,2025,0607163810,OCCÉAN,Marie-Ange,2006-03-19,Hinche,+50931419163,771.00,1900,,ajourne,SVT,Collège Catts Pressoir,Chimie,109,300
+perm_ns4,2025,0607163810,OCCÉAN,Marie-Ange,2006-03-19,Hinche,+50931419163,771.00,1900,,ajourne,SVT,Collège Catts Pressoir,Mathématiques,85,200
+perm_ns4,2025,0607163810,OCCÉAN,Marie-Ange,2006-03-19,Hinche,+50931419163,771.00,1900,,ajourne,SVT,Collège Catts Pressoir,Physique,58,200
+perm_ns4,2025,0607163810,OCCÉAN,Marie-Ange,2006-03-19,Hinche,+50931419163,771.00,1900,,ajourne,SVT,Collège Catts Pressoir,Créole,72,200
+perm_ns4,2025,0607163810,OCCÉAN,Marie-Ange,2006-03-19,Hinche,+50931419163,771.00,1900,,ajourne,SVT,Collège Catts Pressoir,Histoire et Géographie,68,200
+perm_ns4,2024,0748212037,DÉSIR,Mirlande,2006-09-28,Saint-Marc,+50947323183,1135.00,1900,Passable,admis,LA,Lycée Pierre Gentil,Philosophie / Français,172,400
+perm_ns4,2024,0748212037,DÉSIR,Mirlande,2006-09-28,Saint-Marc,+50947323183,1135.00,1900,Passable,admis,LA,Lycée Pierre Gentil,Arts / Éducation Artistique,89,200
+perm_ns4,2024,0752239157,DELVA,Rose-Marie,2006-07-04,Les Cayes,+50937375993,1069.00,1900,Passable,admis,SES,Institution Saint-Joseph,Économie,169,400
+perm_ns4,2024,0752239157,DELVA,Rose-Marie,2006-07-04,Les Cayes,+50937375993,1069.00,1900,Passable,admis,SES,Institution Saint-Joseph,Chimie,42,100
+perm_ns4,2025,0259319824,TOUSSAINT,Emmanuela,2004-01-28,Les Cayes,+50934203116,933.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Mathématiques,142,400
+perm_ns4,2025,0259319824,TOUSSAINT,Emmanuela,2004-01-28,Les Cayes,+50934203116,933.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Physique,172,400
+perm_ns4,2025,0259319824,TOUSSAINT,Emmanuela,2004-01-28,Les Cayes,+50934203116,933.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague,Créole,72,200
+perm_ns4,2025,0522160892,DELVA,Widlene,2005-09-16,Hinche,+50942645782,808.00,1900,,ajourne,SVT,Collège Catts Pressoir,SVT / Biologie,150,400
+perm_ns4,2025,0522160892,DELVA,Widlene,2005-09-16,Hinche,+50942645782,808.00,1900,,ajourne,SVT,Collège Catts Pressoir,Chimie,102,300
+perm_ns4,2025,0522160892,DELVA,Widlene,2005-09-16,Hinche,+50942645782,808.00,1900,,ajourne,SVT,Collège Catts Pressoir,Physique,75,200
+perm_ns4,2025,0522160892,DELVA,Widlene,2005-09-16,Hinche,+50942645782,808.00,1900,,ajourne,SVT,Collège Catts Pressoir,Anglais / Espagnol,64,200
+perm_ns4,2025,0522160892,DELVA,Widlene,2005-09-16,Hinche,+50942645782,808.00,1900,,ajourne,SVT,Collège Catts Pressoir,Histoire et Géographie,69,200
+perm_ns4,2024,0649964824,HYPPOLITE,Rodlin,2005-08-18,Jacmel,+50942561723,1149.00,1900,Assez bien,admis,LA,Collège Jean Price Mars,Philosophie / Français,147,400
+perm_ns4,2025,0635534696,HYPPOLITE,Samuel,2005-11-28,Léogâne,+50931783411,978.00,1900,Passable,admis,SES,Lycée Alexandre Pétion,Économie,157,400
+perm_ns4,2025,0635534696,HYPPOLITE,Samuel,2005-11-28,Léogâne,+50931783411,978.00,1900,Passable,admis,SES,Lycée Alexandre Pétion,Histoire et Géographie,194,400
+perm_ns4,2024,0339053549,RÉMY,Peterson,2003-09-12,Fort-Liberté,+50947611939,923.00,1900,,ajourne,SMP,Lycée Philippe Guerrier,Mathématiques,163,400
+perm_ns4,2024,0339053549,RÉMY,Peterson,2003-09-12,Fort-Liberté,+50947611939,923.00,1900,,ajourne,SMP,Lycée Philippe Guerrier,Physique,166,400
+perm_ns4,2024,0339053549,RÉMY,Peterson,2003-09-12,Fort-Liberté,+50947611939,923.00,1900,,ajourne,SMP,Lycée Philippe Guerrier,Français / Chimie,92,200
+perm_philo,2026,0327405162,SIMÉON,Daniel,2005-05-01,Cap-Haïtien,+50944623613,915.00,1900,,ajourne,Philo A,Collège Jean Price Mars,Philosophie,147,400
+perm_philo,2026,0327405162,SIMÉON,Daniel,2005-05-01,Cap-Haïtien,+50944623613,915.00,1900,,ajourne,Philo A,Collège Jean Price Mars,Histoire et Géographie,142,300
+perm_philo,2026,0327405162,SIMÉON,Daniel,2005-05-01,Cap-Haïtien,+50944623613,915.00,1900,,ajourne,Philo A,Collège Jean Price Mars,Anglais,84,200
+perm_philo,2026,0327405162,SIMÉON,Daniel,2005-05-01,Cap-Haïtien,+50944623613,915.00,1900,,ajourne,Philo A,Collège Jean Price Mars,Mathématiques,66,200
+perm_philo,2026,0880783162,FLEURY,Natasha,2002-02-01,Hinche,+50937433248,1025.00,1900,Passable,admis,Philo C,Collège Canado-Haïtien,Philosophie,181,400
+perm_philo,2026,0880783162,FLEURY,Natasha,2002-02-01,Hinche,+50937433248,1025.00,1900,Passable,admis,Philo C,Collège Canado-Haïtien,Histoire et Géographie,96,200
+perm_philo,2026,1086260886,INNOCENT,Wilson,2005-07-24,Pétion-Ville,+50934777786,899.00,1900,,ajourne,Philo D,Collège Jean Price Mars,Philosophie,176,400
+perm_philo,2026,1086260886,INNOCENT,Wilson,2005-07-24,Pétion-Ville,+50934777786,899.00,1900,,ajourne,Philo D,Collège Jean Price Mars,SVT,172,400
+perm_philo,2026,1086260886,INNOCENT,Wilson,2005-07-24,Pétion-Ville,+50934777786,899.00,1900,,ajourne,Philo D,Collège Jean Price Mars,Chimie,145,300
+perm_philo,2026,1086260886,INNOCENT,Wilson,2005-07-24,Pétion-Ville,+50934777786,899.00,1900,,ajourne,Philo D,Collège Jean Price Mars,Français,85,200
+perm_philo,2026,1086260886,INNOCENT,Wilson,2005-07-24,Pétion-Ville,+50934777786,899.00,1900,,ajourne,Philo D,Collège Jean Price Mars,Créole,95,200
+perm_philo,2025,0330326282,GEORGES,Kerline,2002-05-21,Delmas,+50942309976,1019.00,1900,Passable,admis,Philo A,Collège Jean Price Mars,Philosophie,184,400
+perm_philo,2025,0330326282,GEORGES,Kerline,2002-05-21,Delmas,+50942309976,1019.00,1900,Passable,admis,Philo A,Collège Jean Price Mars,Français,137,300
+perm_philo,2025,0330326282,GEORGES,Kerline,2002-05-21,Delmas,+50942309976,1019.00,1900,Passable,admis,Philo A,Collège Jean Price Mars,Sciences,101,300
+perm_philo,2024,0268105910,FLEURY,Mirlande,2005-08-27,Port-au-Prince,+50931458452,1072.00,1900,Passable,admis,Philo C,Collège Canado-Haïtien,Philosophie,150,400
+perm_philo,2024,0268105910,FLEURY,Mirlande,2005-08-27,Port-au-Prince,+50931458452,1072.00,1900,Passable,admis,Philo C,Collège Canado-Haïtien,Français,74,200
+perm_philo,2026,0528449609,MICHEL,Sabrina,2003-12-01,Port-au-Prince,+50931145125,913.00,1900,,ajourne,Philo D,Collège Jean Price Mars,Philosophie,157,400
+perm_philo,2026,0528449609,MICHEL,Sabrina,2003-12-01,Port-au-Prince,+50931145125,913.00,1900,,ajourne,Philo D,Collège Jean Price Mars,SVT,154,400
+perm_philo,2026,0528449609,MICHEL,Sabrina,2003-12-01,Port-au-Prince,+50931145125,913.00,1900,,ajourne,Philo D,Collège Jean Price Mars,Chimie,132,300
+perm_philo,2026,0193550793,TOUSSAINT,Christopher,2003-04-07,Jacmel,+50931036099,1054.00,1900,Passable,admis,Philo A,Collège Jean Price Mars,Philosophie,178,400
+perm_philo,2026,0193550793,TOUSSAINT,Christopher,2003-04-07,Jacmel,+50931036099,1054.00,1900,Passable,admis,Philo A,Collège Jean Price Mars,Sciences,144,300
+perm_philo,2024,0564037337,GEORGES,Rachelle,2002-12-25,Petit-Goâve,+50944806603,874.00,1900,,ajourne,Philo C,Lycée Pierre Gentil,Philosophie,144,400
+perm_philo,2024,0564037337,GEORGES,Rachelle,2002-12-25,Petit-Goâve,+50944806603,874.00,1900,,ajourne,Philo C,Lycée Pierre Gentil,Français,87,200
+perm_philo,2024,0564037337,GEORGES,Rachelle,2002-12-25,Petit-Goâve,+50944806603,874.00,1900,,ajourne,Philo C,Lycée Pierre Gentil,Histoire et Géographie,76,200
+perm_philo,2024,0564037337,GEORGES,Rachelle,2002-12-25,Petit-Goâve,+50944806603,874.00,1900,,ajourne,Philo C,Lycée Pierre Gentil,Langue vivante,83,200
+perm_philo,2026,0838607563,SAINT-FLEUR,Mica,2004-03-14,Port-au-Prince,+50938302340,943.00,1900,,ajourne,Philo D,Lycée Alexandre Pétion,Philosophie,158,400
+perm_philo,2026,0838607563,SAINT-FLEUR,Mica,2004-03-14,Port-au-Prince,+50938302340,943.00,1900,,ajourne,Philo D,Lycée Alexandre Pétion,Chimie,111,300
+perm_philo,2026,0838607563,SAINT-FLEUR,Mica,2004-03-14,Port-au-Prince,+50938302340,943.00,1900,,ajourne,Philo D,Lycée Alexandre Pétion,Français,91,200
+perm_philo,2026,0838607563,SAINT-FLEUR,Mica,2004-03-14,Port-au-Prince,+50938302340,943.00,1900,,ajourne,Philo D,Lycée Alexandre Pétion,Histoire et Géographie,96,200
+perm_philo,2024,0665877147,LAMOUR,Natasha,2004-04-23,Fort-Liberté,+50948173844,982.00,1900,Passable,admis,Philo A,Lycée Toussaint Louverture,Philosophie,144,400
+perm_philo,2024,0665877147,LAMOUR,Natasha,2004-04-23,Fort-Liberté,+50948173844,982.00,1900,Passable,admis,Philo A,Lycée Toussaint Louverture,Français,146,300
+perm_philo,2024,0665877147,LAMOUR,Natasha,2004-04-23,Fort-Liberté,+50948173844,982.00,1900,Passable,admis,Philo A,Lycée Toussaint Louverture,Créole,71,200
+perm_philo,2026,0265805838,RAYMOND,Mackenson,2004-04-10,Port-de-Paix,+50947944993,990.00,1900,Passable,admis,Philo C,Collège Catts Pressoir,Philosophie,175,400
+perm_philo,2026,0265805838,RAYMOND,Mackenson,2004-04-10,Port-de-Paix,+50947944993,990.00,1900,Passable,admis,Philo C,Collège Catts Pressoir,Mathématiques,174,400
+perm_philo,2026,0350909474,LOUIS,Sabrina,2004-09-05,Pétion-Ville,+50944177786,874.00,1900,,ajourne,Philo D,Lycée de Jacmel,Philosophie,183,400
+perm_philo,2026,0350909474,LOUIS,Sabrina,2004-09-05,Pétion-Ville,+50944177786,874.00,1900,,ajourne,Philo D,Lycée de Jacmel,SVT,143,400
+perm_philo,2026,0350909474,LOUIS,Sabrina,2004-09-05,Pétion-Ville,+50944177786,874.00,1900,,ajourne,Philo D,Lycée de Jacmel,Chimie,103,300
+perm_philo,2026,0350909474,LOUIS,Sabrina,2004-09-05,Pétion-Ville,+50944177786,874.00,1900,,ajourne,Philo D,Lycée de Jacmel,Créole,98,200
+perm_philo,2026,0350909474,LOUIS,Sabrina,2004-09-05,Pétion-Ville,+50944177786,874.00,1900,,ajourne,Philo D,Lycée de Jacmel,Histoire et Géographie,80,200
+perm_philo,2025,0577734850,THOMAS,Esther,2004-10-17,Petit-Goâve,+50937247687,1095.00,1900,Passable,admis,Philo A,Collège Notre-Dame du Perpétuel Secours,Philosophie,168,400
+perm_philo,2025,0577734850,THOMAS,Esther,2004-10-17,Petit-Goâve,+50937247687,1095.00,1900,Passable,admis,Philo A,Collège Notre-Dame du Perpétuel Secours,Histoire et Géographie,137,300
+perm_philo,2024,0597808793,MOMPREMIER,Roody,2004-04-04,Jacmel,+50942216472,997.00,1900,Passable,admis,Philo C,Institution Saint-Joseph,Philosophie,184,400
+perm_philo,2024,0597808793,MOMPREMIER,Roody,2004-04-04,Jacmel,+50942216472,997.00,1900,Passable,admis,Philo C,Institution Saint-Joseph,Français,96,200
+perm_philo,2025,0101693465,FLEURY,Roody,2005-04-22,Fort-Liberté,+50937672702,797.00,1900,,ajourne,Philo D,Lycée Toussaint Louverture,Philosophie,171,400
+perm_philo,2025,0101693465,FLEURY,Roody,2005-04-22,Fort-Liberté,+50937672702,797.00,1900,,ajourne,Philo D,Lycée Toussaint Louverture,Chimie,80,300
+perm_philo,2025,0101693465,FLEURY,Roody,2005-04-22,Fort-Liberté,+50937672702,797.00,1900,,ajourne,Philo D,Lycée Toussaint Louverture,Mathématiques,87,200
+perm_philo,2025,0101693465,FLEURY,Roody,2005-04-22,Fort-Liberté,+50937672702,797.00,1900,,ajourne,Philo D,Lycée Toussaint Louverture,Français,75,200
+perm_philo,2025,0101693465,FLEURY,Roody,2005-04-22,Fort-Liberté,+50937672702,797.00,1900,,ajourne,Philo D,Lycée Toussaint Louverture,Créole,91,200
+perm_philo,2025,0101693465,FLEURY,Roody,2005-04-22,Fort-Liberté,+50937672702,797.00,1900,,ajourne,Philo D,Lycée Toussaint Louverture,Histoire et Géographie,68,200
+perm_philo,2025,0742012065,BEAUVOIR,Carl-Henry,2005-01-20,Delmas,+50937937945,858.00,1900,,ajourne,Philo A,Collège Jean Price Mars,Philosophie,151,400
+perm_philo,2025,0742012065,BEAUVOIR,Carl-Henry,2005-01-20,Delmas,+50937937945,858.00,1900,,ajourne,Philo A,Collège Jean Price Mars,Français,132,300
+perm_philo,2025,0742012065,BEAUVOIR,Carl-Henry,2005-01-20,Delmas,+50937937945,858.00,1900,,ajourne,Philo A,Collège Jean Price Mars,Créole,55,200
+perm_philo,2025,0742012065,BEAUVOIR,Carl-Henry,2005-01-20,Delmas,+50937937945,858.00,1900,,ajourne,Philo A,Collège Jean Price Mars,Sciences,135,300
+perm_philo,2025,0152171561,LAMOUR,Johnny,2003-12-16,Port-au-Prince,+50944547029,1038.00,1900,Passable,admis,Philo C,Collège Notre-Dame du Perpétuel Secours,Philosophie,145,400
+perm_philo,2025,0152171561,LAMOUR,Johnny,2003-12-16,Port-au-Prince,+50944547029,1038.00,1900,Passable,admis,Philo C,Collège Notre-Dame du Perpétuel Secours,Mathématiques,184,400
+perm_philo,2025,0152171561,LAMOUR,Johnny,2003-12-16,Port-au-Prince,+50944547029,1038.00,1900,Passable,admis,Philo C,Collège Notre-Dame du Perpétuel Secours,Histoire et Géographie,80,200
+perm_philo,2025,0828197723,GEORGES,Daniel,2005-07-02,Port-au-Prince,+50934438915,1220.00,1900,Assez bien,admis,Philo D,Institution Saint-Joseph,Philosophie,184,400
+perm_philo,2026,0677869804,AUGUSTIN,Jean-Marc,2003-08-21,Fort-Liberté,+50937370285,1102.00,1900,Passable,admis,Philo A,Collège Jean Price Mars,Philosophie,173,400
+perm_philo,2026,0762827436,TOUSSAINT,Hermane,2004-07-22,Jérémie,+50948002825,1037.00,1900,Passable,admis,Philo C,Lycée Philippe Guerrier,Philosophie,184,400
+perm_philo,2026,0762827436,TOUSSAINT,Hermane,2004-07-22,Jérémie,+50948002825,1037.00,1900,Passable,admis,Philo C,Lycée Philippe Guerrier,Physique,135,300
+perm_philo,2026,0762827436,TOUSSAINT,Hermane,2004-07-22,Jérémie,+50948002825,1037.00,1900,Passable,admis,Philo C,Lycée Philippe Guerrier,Créole,98,200
+perm_philo,2025,0487832447,LAMOUR,Davidson,2003-09-27,Petit-Goâve,+50931689232,977.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion,Philosophie,159,400
+perm_philo,2025,0487832447,LAMOUR,Davidson,2003-09-27,Petit-Goâve,+50931689232,977.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion,Chimie,129,300
+perm_philo,2025,0487832447,LAMOUR,Davidson,2003-09-27,Petit-Goâve,+50931689232,977.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion,Mathématiques,82,200
+perm_philo,2025,0487832447,LAMOUR,Davidson,2003-09-27,Petit-Goâve,+50931689232,977.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion,Français,73,200
+perm_philo,2024,0288041023,DORVIL,Judith,2003-10-23,Les Cayes,+50942206957,906.00,1900,,ajourne,Philo A,Lycée de Jacmel,Philosophie,153,400
+perm_philo,2024,0288041023,DORVIL,Judith,2003-10-23,Les Cayes,+50942206957,906.00,1900,,ajourne,Philo A,Lycée de Jacmel,Français,129,300
+perm_philo,2024,0288041023,DORVIL,Judith,2003-10-23,Les Cayes,+50942206957,906.00,1900,,ajourne,Philo A,Lycée de Jacmel,Créole,91,200
+perm_philo,2024,0288041023,DORVIL,Judith,2003-10-23,Les Cayes,+50942206957,906.00,1900,,ajourne,Philo A,Lycée de Jacmel,Anglais,98,200
+perm_philo,2024,0288041023,DORVIL,Judith,2003-10-23,Les Cayes,+50942206957,906.00,1900,,ajourne,Philo A,Lycée de Jacmel,Mathématiques,70,200
+perm_philo,2026,0471242163,ÉLIE,Johnny,2003-12-16,Fort-Liberté,+50948172612,1310.00,1900,Assez bien,admis,Philo C,Collège Catts Pressoir,Philosophie,170,400
+perm_philo,2026,0121522806,TELFORT,Jean-Marc,2003-11-12,Port-au-Prince,+50931639290,966.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion,Philosophie,177,400
+perm_philo,2026,0121522806,TELFORT,Jean-Marc,2003-11-12,Port-au-Prince,+50931639290,966.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion,SVT,180,400
+perm_philo,2026,0121522806,TELFORT,Jean-Marc,2003-11-12,Port-au-Prince,+50931639290,966.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion,Mathématiques,97,200
+perm_philo,2026,0121522806,TELFORT,Jean-Marc,2003-11-12,Port-au-Prince,+50931639290,966.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion,Français,81,200
+perm_philo,2026,0612613208,ÉLIE,Bedjine,2003-05-14,Léogâne,+50947263792,916.00,1900,,ajourne,Philo A,Collège Catts Pressoir,Philosophie,179,400
+perm_philo,2026,0612613208,ÉLIE,Bedjine,2003-05-14,Léogâne,+50947263792,916.00,1900,,ajourne,Philo A,Collège Catts Pressoir,Français,137,300
+perm_philo,2026,0612613208,ÉLIE,Bedjine,2003-05-14,Léogâne,+50947263792,916.00,1900,,ajourne,Philo A,Collège Catts Pressoir,Anglais,78,200
+perm_philo,2026,0612613208,ÉLIE,Bedjine,2003-05-14,Léogâne,+50947263792,916.00,1900,,ajourne,Philo A,Collège Catts Pressoir,Mathématiques,78,200
+perm_philo,2024,0539310067,FILS-AIMÉ,Fabrice,2004-04-11,Saint-Marc,+50937614938,923.00,1900,,ajourne,Philo C,Collège Jean Price Mars,Philosophie,156,400
+perm_philo,2024,0539310067,FILS-AIMÉ,Fabrice,2004-04-11,Saint-Marc,+50937614938,923.00,1900,,ajourne,Philo C,Collège Jean Price Mars,Mathématiques,160,400
+perm_philo,2024,0539310067,FILS-AIMÉ,Fabrice,2004-04-11,Saint-Marc,+50937614938,923.00,1900,,ajourne,Philo C,Collège Jean Price Mars,Créole,97,200
+perm_philo,2024,0539310067,FILS-AIMÉ,Fabrice,2004-04-11,Saint-Marc,+50937614938,923.00,1900,,ajourne,Philo C,Collège Jean Price Mars,Histoire et Géographie,92,200
+perm_philo,2024,0153536544,SIMÉON,Rodlin,2005-10-05,Les Cayes,+50938041391,961.00,1900,Passable,admis,Philo D,Collège Jean Price Mars,Philosophie,164,400
+perm_philo,2024,0153536544,SIMÉON,Rodlin,2005-10-05,Les Cayes,+50938041391,961.00,1900,Passable,admis,Philo D,Collège Jean Price Mars,SVT,119,400
+perm_philo,2026,0883923346,SÉNAT,Daphnée,2004-09-23,Port-de-Paix,+50942193752,1048.00,1900,Passable,admis,Philo A,Institution Saint-Joseph,Philosophie,174,400
+perm_philo,2026,0883923346,SÉNAT,Daphnée,2004-09-23,Port-de-Paix,+50942193752,1048.00,1900,Passable,admis,Philo A,Institution Saint-Joseph,Sciences,128,300
+perm_philo,2024,0602736975,VALCIN,Franky,2002-01-22,Miragoâne,+50937498543,966.00,1900,Passable,admis,Philo C,Institution Saint-Joseph,Philosophie,181,400
+perm_philo,2024,0602736975,VALCIN,Franky,2002-01-22,Miragoâne,+50937498543,966.00,1900,Passable,admis,Philo C,Institution Saint-Joseph,Histoire et Géographie,93,200
+perm_philo,2026,0211129969,SAINT-FLEUR,Jessica,2002-03-16,Port-au-Prince,+50942754294,870.00,1900,,ajourne,Philo D,Lycée Pierre Gentil,Philosophie,168,400
+perm_philo,2026,0211129969,SAINT-FLEUR,Jessica,2002-03-16,Port-au-Prince,+50942754294,870.00,1900,,ajourne,Philo D,Lycée Pierre Gentil,SVT,190,400
+perm_philo,2026,0211129969,SAINT-FLEUR,Jessica,2002-03-16,Port-au-Prince,+50942754294,870.00,1900,,ajourne,Philo D,Lycée Pierre Gentil,Mathématiques,94,200
+perm_philo,2026,0211129969,SAINT-FLEUR,Jessica,2002-03-16,Port-au-Prince,+50942754294,870.00,1900,,ajourne,Philo D,Lycée Pierre Gentil,Français,92,200
+perm_philo,2026,0211129969,SAINT-FLEUR,Jessica,2002-03-16,Port-au-Prince,+50942754294,870.00,1900,,ajourne,Philo D,Lycée Pierre Gentil,Créole,87,200
+perm_philo,2026,0211129969,SAINT-FLEUR,Jessica,2002-03-16,Port-au-Prince,+50942754294,870.00,1900,,ajourne,Philo D,Lycée Pierre Gentil,Histoire et Géographie,81,200
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,Créole,90,300
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,Français,132,300
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,Sciences Sociales,216,300
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,Sciences Expérimentales,165,300
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,Mathématiques,153,300
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,Anglais,116,200
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,Espagnol,94,200
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,ETAP - Éducation à la Technologie et aux Activités Productives,88,200
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,EPS - Éducation Physique et Sportive,104,200
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,EEA - Éducation Esthétique et Artistique,90,200
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier,Éducation à la Citoyenneté,70,200
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,Créole,211,300
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,Français,205,300
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,Sciences Sociales,209,300
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,Sciences Expérimentales,284,300
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,Mathématiques,211,300
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,Anglais,138,200
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,Espagnol,155,200
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,ETAP - Éducation à la Technologie et aux Activités Productives,164,200
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,EPS - Éducation Physique et Sportive,150,200
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,EEA - Éducation Esthétique et Artistique,166,200
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion,Éducation à la Citoyenneté,149,200
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Créole,165,300
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Français,227,300
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Sciences Sociales,209,300
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Sciences Expérimentales,231,300
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Mathématiques,165,300
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Anglais,156,200
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Espagnol,135,200
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,ETAP - Éducation à la Technologie et aux Activités Productives,120,200
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,EPS - Éducation Physique et Sportive,153,200
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,EEA - Éducation Esthétique et Artistique,140,200
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Éducation à la Citoyenneté,121,200
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,Créole,144,300
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,Français,233,300
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,Sciences Sociales,167,300
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,Sciences Expérimentales,191,300
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,Mathématiques,271,300
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,Anglais,147,200
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,Espagnol,100,200
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,ETAP - Éducation à la Technologie et aux Activités Productives,153,200
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,EPS - Éducation Physique et Sportive,123,200
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,EEA - Éducation Esthétique et Artistique,160,200
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien,Éducation à la Citoyenneté,150,200
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,Créole,144,300
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,Français,238,300
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,Sciences Sociales,217,300
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,Sciences Expérimentales,186,300
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,Mathématiques,157,300
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,Anglais,77,200
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,Espagnol,97,200
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,ETAP - Éducation à la Technologie et aux Activités Productives,144,200
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,EPS - Éducation Physique et Sportive,102,200
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,EEA - Éducation Esthétique et Artistique,90,200
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil,Éducation à la Citoyenneté,126,200
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,Créole,167,300
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,Français,225,300
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,Sciences Sociales,168,300
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,Sciences Expérimentales,211,300
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,Mathématiques,162,300
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,Anglais,116,200
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,Espagnol,128,200
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,ETAP - Éducation à la Technologie et aux Activités Productives,123,200
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,EPS - Éducation Physique et Sportive,131,200
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,EEA - Éducation Esthétique et Artistique,119,200
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier,Éducation à la Citoyenneté,158,200
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Créole,114,300
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Français,207,300
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Sciences Sociales,174,300
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Sciences Expérimentales,203,300
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Mathématiques,186,300
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Anglais,124,200
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Espagnol,129,200
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,ETAP - Éducation à la Technologie et aux Activités Productives,149,200
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,EPS - Éducation Physique et Sportive,130,200
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,EEA - Éducation Esthétique et Artistique,138,200
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Éducation à la Citoyenneté,101,200
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Créole,154,300
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Français,175,300
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Sciences Sociales,127,300
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Sciences Expérimentales,160,300
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Mathématiques,212,300
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Anglais,130,200
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Espagnol,154,200
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,ETAP - Éducation à la Technologie et aux Activités Productives,111,200
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,EPS - Éducation Physique et Sportive,100,200
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,EEA - Éducation Esthétique et Artistique,98,200
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Éducation à la Citoyenneté,101,200
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,Créole,136,300
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,Français,112,300
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,Sciences Sociales,130,300
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,Sciences Expérimentales,188,300
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,Mathématiques,182,300
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,Anglais,108,200
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,Espagnol,121,200
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,ETAP - Éducation à la Technologie et aux Activités Productives,94,200
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,EPS - Éducation Physique et Sportive,110,200
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,EEA - Éducation Esthétique et Artistique,109,200
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien,Éducation à la Citoyenneté,122,200
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Créole,174,300
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Français,171,300
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Sciences Sociales,192,300
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Sciences Expérimentales,249,300
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Mathématiques,157,300
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Anglais,106,200
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Espagnol,105,200
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,ETAP - Éducation à la Technologie et aux Activités Productives,101,200
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,EPS - Éducation Physique et Sportive,162,200
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,EEA - Éducation Esthétique et Artistique,91,200
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague,Éducation à la Citoyenneté,129,200
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,Créole,168,300
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,Français,201,300
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,Sciences Sociales,162,300
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,Sciences Expérimentales,136,300
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,Mathématiques,217,300
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,Anglais,102,200
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,Espagnol,114,200
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,ETAP - Éducation à la Technologie et aux Activités Productives,76,200
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,EPS - Éducation Physique et Sportive,110,200
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,EEA - Éducation Esthétique et Artistique,119,200
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien,Éducation à la Citoyenneté,127,200
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,Créole,241,300
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,Français,267,300
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,Sciences Sociales,259,300
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,Sciences Expérimentales,252,300
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,Mathématiques,235,300
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,Anglais,159,200
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,Espagnol,142,200
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,ETAP - Éducation à la Technologie et aux Activités Productives,166,200
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,EPS - Éducation Physique et Sportive,161,200
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,EEA - Éducation Esthétique et Artistique,169,200
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion,Éducation à la Citoyenneté,141,200
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,Créole,151,300
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,Français,186,300
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,Sciences Sociales,215,300
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,Sciences Expérimentales,154,300
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,Mathématiques,136,300
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,Anglais,115,200
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,Espagnol,111,200
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,ETAP - Éducation à la Technologie et aux Activités Productives,84,200
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,EPS - Éducation Physique et Sportive,88,200
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,EEA - Éducation Esthétique et Artistique,104,200
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion,Éducation à la Citoyenneté,122,200
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Créole,143,300
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Français,177,300
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Sciences Sociales,206,300
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Sciences Expérimentales,200,300
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Mathématiques,261,300
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Anglais,150,200
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Espagnol,137,200
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,ETAP - Éducation à la Technologie et aux Activités Productives,106,200
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,EPS - Éducation Physique et Sportive,162,200
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,EEA - Éducation Esthétique et Artistique,164,200
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Éducation à la Citoyenneté,167,200
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,Créole,207,300
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,Français,276,300
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,Sciences Sociales,261,300
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,Sciences Expérimentales,248,300
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,Mathématiques,294,300
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,Anglais,196,200
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,Espagnol,142,200
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,ETAP - Éducation à la Technologie et aux Activités Productives,185,200
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,EPS - Éducation Physique et Sportive,141,200
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,EEA - Éducation Esthétique et Artistique,180,200
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture,Éducation à la Citoyenneté,152,200
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Créole,214,300
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Français,102,300
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Sciences Sociales,156,300
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Sciences Expérimentales,268,300
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Mathématiques,197,300
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Anglais,123,200
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Espagnol,106,200
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,ETAP - Éducation à la Technologie et aux Activités Productives,142,200
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,EPS - Éducation Physique et Sportive,95,200
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,EEA - Éducation Esthétique et Artistique,107,200
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Éducation à la Citoyenneté,129,200
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,Créole,150,300
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,Français,176,300
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,Sciences Sociales,175,300
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,Sciences Expérimentales,181,300
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,Mathématiques,186,300
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,Anglais,109,200
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,Espagnol,89,200
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,ETAP - Éducation à la Technologie et aux Activités Productives,64,200
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,EPS - Éducation Physique et Sportive,82,200
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,EEA - Éducation Esthétique et Artistique,123,200
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion,Éducation à la Citoyenneté,138,200
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Créole,208,300
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Français,82,300
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Sciences Sociales,216,300
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Sciences Expérimentales,202,300
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Mathématiques,101,300
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Anglais,136,200
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Espagnol,74,200
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,ETAP - Éducation à la Technologie et aux Activités Productives,144,200
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,EPS - Éducation Physique et Sportive,127,200
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,EEA - Éducation Esthétique et Artistique,171,200
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague,Éducation à la Citoyenneté,102,200
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Créole,239,300
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Français,193,300
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Sciences Sociales,225,300
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Sciences Expérimentales,88,300
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Mathématiques,263,300
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Anglais,118,200
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Espagnol,127,200
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,ETAP - Éducation à la Technologie et aux Activités Productives,189,200
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,EPS - Éducation Physique et Sportive,117,200
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,EEA - Éducation Esthétique et Artistique,172,200
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture,Éducation à la Citoyenneté,137,200
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,Créole,185,300
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,Français,200,300
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,Sciences Sociales,196,300
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,Sciences Expérimentales,181,300
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,Mathématiques,186,300
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,Anglais,169,200
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,Espagnol,103,200
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,ETAP - Éducation à la Technologie et aux Activités Productives,125,200
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,EPS - Éducation Physique et Sportive,111,200
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,EEA - Éducation Esthétique et Artistique,70,200
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien,Éducation à la Citoyenneté,87,200
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,Créole,99,300
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,Français,83,300
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,Sciences Sociales,89,300
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,Sciences Expérimentales,105,300
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,Mathématiques,99,300
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,Anglais,73,200
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,Espagnol,53,200
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,ETAP - Éducation à la Technologie et aux Activités Productives,48,200
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,EPS - Éducation Physique et Sportive,70,200
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,EEA - Éducation Esthétique et Artistique,59,200
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours,Éducation à la Citoyenneté,83,200
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Créole,127,300
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Français,118,300
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Sciences Sociales,245,300
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Sciences Expérimentales,124,300
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Mathématiques,201,300
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Anglais,99,200
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Espagnol,102,200
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,ETAP - Éducation à la Technologie et aux Activités Productives,112,200
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,EPS - Éducation Physique et Sportive,76,200
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,EEA - Éducation Esthétique et Artistique,116,200
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Éducation à la Citoyenneté,103,200
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,Créole,111,300
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,Français,194,300
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,Sciences Sociales,101,300
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,Sciences Expérimentales,97,300
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,Mathématiques,149,300
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,Anglais,102,200
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,Espagnol,63,200
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,ETAP - Éducation à la Technologie et aux Activités Productives,62,200
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,EPS - Éducation Physique et Sportive,110,200
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,EEA - Éducation Esthétique et Artistique,90,200
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil,Éducation à la Citoyenneté,52,200
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Créole,167,300
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Français,174,300
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Sciences Sociales,230,300
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Sciences Expérimentales,147,300
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Mathématiques,218,300
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Anglais,129,200
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Espagnol,158,200
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,ETAP - Éducation à la Technologie et aux Activités Productives,113,200
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,EPS - Éducation Physique et Sportive,127,200
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,EEA - Éducation Esthétique et Artistique,117,200
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil,Éducation à la Citoyenneté,173,200
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,Créole,274,300
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,Français,200,300
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,Sciences Sociales,293,300
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,Sciences Expérimentales,279,300
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,Mathématiques,154,300
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,Anglais,161,200
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,Espagnol,179,200
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,ETAP - Éducation à la Technologie et aux Activités Productives,157,200
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,EPS - Éducation Physique et Sportive,152,200
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,EEA - Éducation Esthétique et Artistique,184,200
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel,Éducation à la Citoyenneté,163,200
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Créole,124,300
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Français,173,300
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Sciences Sociales,160,300
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Sciences Expérimentales,164,300
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Mathématiques,196,300
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Anglais,71,200
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Espagnol,106,200
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,ETAP - Éducation à la Technologie et aux Activités Productives,119,200
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,EPS - Éducation Physique et Sportive,100,200
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,EEA - Éducation Esthétique et Artistique,116,200
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours,Éducation à la Citoyenneté,129,200
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,Créole,158,300
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,Français,203,300
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,Sciences Sociales,126,300
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,Sciences Expérimentales,207,300
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,Mathématiques,61,300
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,Anglais,125,200
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,Espagnol,90,200
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,ETAP - Éducation à la Technologie et aux Activités Productives,117,200
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,EPS - Éducation Physique et Sportive,123,200
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,EEA - Éducation Esthétique et Artistique,78,200
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars,Éducation à la Citoyenneté,104,200
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,Créole,163,300
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,Français,110,300
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,Sciences Sociales,181,300
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,Sciences Expérimentales,160,300
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,Mathématiques,130,300
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,Anglais,104,200
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,Espagnol,59,200
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,ETAP - Éducation à la Technologie et aux Activités Productives,78,200
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,EPS - Éducation Physique et Sportive,72,200
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,EEA - Éducation Esthétique et Artistique,56,200
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture,Éducation à la Citoyenneté,87,200
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,Créole,158,300
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,Français,193,300
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,Sciences Sociales,188,300
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,Sciences Expérimentales,109,300
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,Mathématiques,165,300
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,Anglais,84,200
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,Espagnol,88,200
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,ETAP - Éducation à la Technologie et aux Activités Productives,120,200
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,EPS - Éducation Physique et Sportive,118,200
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,EEA - Éducation Esthétique et Artistique,119,200
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil,Éducation à la Citoyenneté,96,200
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,Créole,157,300
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,Français,217,300
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,Sciences Sociales,171,300
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,Sciences Expérimentales,67,300
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,Mathématiques,101,300
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,Anglais,66,200
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,Espagnol,110,200
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,ETAP - Éducation à la Technologie et aux Activités Productives,97,200
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,EPS - Éducation Physique et Sportive,104,200
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,EEA - Éducation Esthétique et Artistique,140,200
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture,Éducation à la Citoyenneté,77,200

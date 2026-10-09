@@ -1,0 +1,44 @@
+examen,serie,matiere,coefficient,ordre
+9AF,,Créole,300,1
+9AF,,Français,300,2
+9AF,,Sciences Sociales,300,3
+9AF,,Sciences Expérimentales,300,4
+9AF,,Mathématiques,300,5
+9AF,,Anglais,200,6
+9AF,,Espagnol,200,7
+9AF,,ETAP - Éducation à la Technologie et aux Activités Productives,200,8
+9AF,,EPS - Éducation Physique et Sportive,200,9
+9AF,,EEA - Éducation Esthétique et Artistique,200,10
+9AF,,Éducation à la Citoyenneté,200,11
+NS4,SES,Économie,400,1
+NS4,SES,Histoire et Géographie,400,2
+NS4,SES,Philosophie,200,3
+NS4,SES,Créole,200,4
+NS4,SES,Mathématiques,200,5
+NS4,SES,Anglais / Espagnol,200,6
+NS4,SES,Physique,100,7
+NS4,SES,SVT - Sciences de la Vie et de la Terre,100,8
+NS4,SES,Chimie,100,9
+NS4,SMP,Mathématiques,400,1
+NS4,SMP,Physique,400,2
+NS4,SMP,Philosophie,200,3
+NS4,SMP,Français / Chimie,200,4
+NS4,SMP,Créole,200,5
+NS4,SMP,Anglais / Espagnol,200,6
+NS4,SMP,Histoire et Géographie,200,7
+NS4,SMP,SVT - Sciences de la Vie et de la Terre,100,8
+NS4,SVT,SVT / Biologie,400,1
+NS4,SVT,Chimie,300,2
+NS4,SVT,Mathématiques,200,3
+NS4,SVT,Physique,200,4
+NS4,SVT,Philosophie,200,5
+NS4,SVT,Créole,200,6
+NS4,SVT,Anglais / Espagnol,200,7
+NS4,SVT,Histoire et Géographie,200,8
+NS4,LA,Philosophie / Français,400,1
+NS4,LA,Créole,300,2
+NS4,LA,Anglais / Espagnol,300,3
+NS4,LA,Histoire et Géographie,300,4
+NS4,LA,Arts / Éducation Artistique,200,5
+NS4,LA,Mathématiques,200,6
+NS4,LA,Sciences (Physique / Chimie / SVT),200,7

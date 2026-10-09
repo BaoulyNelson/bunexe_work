@@ -1,0 +1,86 @@
+{% extends "core/base.html" %} {% load i18n static %} {% block title %}
+Vérification | MENFP {% endblock title %} {% block page_heading %}
+<h1 class="visually-hidden">Vérification</h1>
+{% endblock page_heading %} {% block content %}
+<section class="verification-page">
+  {% if not code %}
+  <div
+    class="verification-scanner"
+    data-verification-scanner
+    data-verify-url="{% url 'verification:verify_code' code='SCAN_CODE' %}"
+  >
+    <button class="scan-start" type="button" data-scan-start>
+      SCANNER POUR VÉRIFIER LES INFORMATIONS SUR UN DIPLÔME OU UN RELEVÉ
+    </button>
+    <p class="scan-status" data-scan-status aria-live="polite"></p>
+    <video class="scan-video" data-scan-video playsinline muted hidden></video>
+    <button
+      class="btn btn-outline-secondary scan-stop"
+      type="button"
+      data-scan-stop
+      hidden
+    >
+      {% trans "Arrêter le scanner" %}
+    </button>
+  </div>
+  <details class="verification-manual" data-focus-on-open>
+    <summary>{% trans "Saisir un code manuellement" %}</summary>
+    <form method="post" class="verification-form">
+      {% csrf_token %}
+      <label class="form-label" for="verificationCode"
+        >{% trans "Code de vérification" %}</label
+      >
+      <div class="input-group">
+        <input
+          id="verificationCode"
+          class="form-control"
+          type="text"
+          name="code"
+          required
+          autocomplete="off"
+        />
+        <button class="btn btn-menfp" type="submit">
+          {% trans "VÉRIFIER" %}
+        </button>
+      </div>
+    </form>
+  </details>
+  {% else %}
+  <h1 class="verification-heading">{% trans "Vérification du document" %}</h1>
+  {% if document and not document.annule %}
+  <div class="verification-result is-valid" role="status">
+    <strong>{% trans "Document authentique" %}</strong>
+    <p>
+      {{ document.get_type_document_display }} · {{ document.demande.candidat.nom }} {{ document.demande.candidat.prenom }}
+    </p>
+    <p>
+      {% trans "Année" %} {{ document.demande.candidat.annee }} · {% trans "Émis le" %} {{ document.date_emission|date:"d/m/Y" }}
+    </p>
+    {% if documents_available %}
+    <p>
+      {% trans "Le relevé de notes et le diplôme sont disponibles après identification dans le formulaire de demande." %}
+    </p>
+    <a class="btn btn-menfp" href="{% url 'core:wizard_step' 1 %}">
+      {% trans "Accéder au formulaire de demande" %}
+    </a>
+    {% endif %}
+  </div>
+  {% elif revoked %}
+  <div class="verification-result is-invalid" role="alert">
+    {% trans "Ce document a été annulé par le MENFP." %}
+  </div>
+  {% elif not_found %}
+  <div class="verification-result is-invalid" role="alert">
+    {% trans "Aucun document ne correspond à ce code." %}
+  </div>
+  {% endif %}
+  <a
+    class="btn btn-menfp verification-again"
+    href="{% url 'verification:verify' %}"
+    >{% trans "Vérifier un autre document" %}</a
+  >
+  {% endif %}
+</section>
+{% endblock content %} {% block extra_scripts %}
+<script src="{% static 'js/verification.js' %}"></script>
+{% endblock extra_scripts %}

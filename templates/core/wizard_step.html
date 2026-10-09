@@ -1,0 +1,123 @@
+{% extends "core/base.html" %}
+{% load i18n %}
+{% block title %}{% trans "Demande de document" %} | e-certificat{% endblock %}
+{% block content %}
+<section class="stepper" aria-label="{% trans 'Progression de la demande' %}">
+  {% for label in steps %}
+    <div class="stepper-item {% if forloop.counter <= step %}is-complete{% endif %} {% if forloop.counter == step %}is-current{% endif %}" aria-current="{% if forloop.counter == step %}step{% endif %}">
+      <span class="stepper-dot">{{ forloop.counter }}</span>
+      <span class="stepper-label">{{ label }}</span>
+    </div>
+  {% endfor %}
+</section>
+
+<section class="wizard-card {% if step == 5 %}wizard-card-wide{% endif %}">
+  {% if step == 1 %}
+    <header class="wizard-card-header">{% trans "Information Personnelle" %}</header>
+    <form id="candidateSearchForm" method="post" action="{% url 'core:candidate_search' %}" class="wizard-card-body candidate-form" novalidate>
+      {% csrf_token %}
+      {{ form.website }}
+      {% if form.non_field_errors %}<div class="alert alert-danger">{{ form.non_field_errors }}</div>{% endif %}
+      {% for field in form %}{% if field.name != 'website' %}
+        <div class="mb-3">
+          <label class="visually-hidden" for="{{ field.id_for_label }}">{{ field.label }}</label>
+          {{ field }}
+          {% for error in field.errors %}<div class="field-error">{{ error }}</div>{% endfor %}
+        </div>
+      {% endif %}{% endfor %}
+      <button class="btn btn-menfp" type="submit">{% trans "RECHERCHER" %}</button>
+    </form>
+  {% elif step == 2 %}
+    <header class="wizard-card-header">{% trans "Données sur le candidat" %}</header>
+    <form method="post" class="wizard-card-body document-form">
+      {% csrf_token %}
+      {% if form.non_field_errors %}<div class="alert alert-danger">{{ form.non_field_errors }}</div>{% endif %}
+      <h2 class="candidate-name">{{ candidat.nom }} {{ candidat.prenom }}</h2>
+      <p class="candidate-summary">
+        {{ candidat.nom }} {{ candidat.prenom }}
+        {% if candidat.date_naissance %}{% trans "né(e) le" %} {{ candidat.date_naissance|date:"d/m/Y" }},{% endif %}
+        {% trans "a participé aux examens de" %} {{ candidat.get_type_resultat_display }} {{ candidat.annee }}
+        {% trans "et a obtenu la note de" %} {{ candidat.total_points|floatformat:"-2" }} {% trans "sur" %} {{ candidat.total_sur }}.
+        {% trans "Mention" %} : {{ candidat.mention_affichee }}
+      </p>
+      <fieldset class="document-options">
+        <legend>{% trans "Je veux imprimer :" %}</legend>
+        {% for radio in form.type_document %}
+          <label class="document-option" for="{{ radio.id_for_label }}">
+            {{ radio.tag }}<span>{{ radio.choice_label }}</span>
+          </label>
+        {% empty %}
+          <p class="text-muted">{% trans "Aucun tarif n'est disponible pour le moment." %}</p>
+        {% endfor %}
+      </fieldset>
+      {% for error in form.type_document.errors %}<div class="field-error">{{ error }}</div>{% endfor %}
+      <div class="wizard-actions">
+        <button class="btn btn-menfp" type="submit">{% trans "CONTINUER" %}</button>
+      </div>
+    </form>
+  {% elif step == 3 %}
+    <header class="wizard-card-header wizard-card-header-large">{% trans "Mode de Paiement" %}</header>
+    <form method="post" class="wizard-card-body payment-form">
+      {% csrf_token %}
+      {% if form.non_field_errors %}<div class="alert alert-danger">{{ form.non_field_errors }}</div>{% endif %}
+      <div class="payment-grid">
+        {% for mode in modes %}
+          <label class="payment-card {% if form.data.mode_paiement == mode.pk|stringformat:'s' or form.initial.mode_paiement == mode.pk %}is-selected{% endif %}" data-payment-card>
+            <input type="radio" name="mode_paiement" value="{{ mode.pk }}" {% if form.data.mode_paiement == mode.pk|stringformat:'s' or form.initial.mode_paiement == mode.pk %}checked{% endif %}>
+            <span class="payment-check" aria-hidden="true">✓</span>
+            {% if mode.logo %}<img class="payment-logo" src="{{ mode.logo.url }}" alt="{{ mode.libelle }}">
+            {% else %}<span class="menfp-mark"><span class="menfp-mark-small">MENFP</span><strong>{% trans "République d'Haïti" %}</strong></span>{% endif %}
+            <strong class="payment-name">{{ mode.libelle }}</strong>
+            {% if mode.gratuit %}<span class="payment-free">{% trans "Gratuit" %}</span>{% endif %}
+          </label>
+        {% empty %}
+          <p class="text-muted">{% trans "Aucun mode de paiement actif." %}</p>
+        {% endfor %}
+      </div>
+      {% for error in form.mode_paiement.errors %}<div class="field-error text-center">{{ error }}</div>{% endfor %}
+      <div class="wizard-actions payment-submit-wrap" data-payment-submit {% if not form.data.mode_paiement and not form.initial.mode_paiement %}hidden{% endif %}>
+        <button class="btn btn-menfp btn-wide" type="submit">{% trans "PROCEDER AU PAIEMENT" %}</button>
+      </div>
+    </form>
+  {% elif step == 4 %}
+    <header class="wizard-card-header wizard-card-header-large">{% trans "Info. Transaction" %}</header>
+    <div class="wizard-card-body transaction-summary">
+      <h2>{{ demande.get_type_document_display }}</h2>
+      <p class="transaction-price">{% trans "prix" %} : {{ demande.montant|floatformat:"-2" }} {{ demande.devise }}</p>
+      <p class="transaction-id">{% trans "Identifiant de demande" %} : <code>{{ demande.transaction_id }}</code></p>
+      {% if demande.mode_paiement.gratuit %}
+        <form method="post">
+          {% csrf_token %}
+          <button class="btn btn-free" type="submit">SÈVIS GRATIS</button>
+        </form>
+      {% else %}
+        <form method="post" class="reference-form">
+          {% csrf_token %}
+          {% if form.non_field_errors %}<div class="alert alert-danger">{{ form.non_field_errors }}</div>{% endif %}
+          <label class="form-label" for="{{ form.reference.id_for_label }}">{{ form.reference.label }}</label>
+          {{ form.reference }}
+          {% for error in form.reference.errors %}<div class="field-error">{{ error }}</div>{% endfor %}
+          <button class="btn btn-menfp mt-3" type="submit">{% trans "VÉRIFIER LE PAIEMENT" %}</button>
+        </form>
+      {% endif %}
+    </div>
+  {% else %}
+    <header class="wizard-card-header visually-hidden">{% trans "Impression documents" %}</header>
+    <div class="wizard-card-body print-actions">
+      {% if demande.type_document == 'certificat' or demande.type_document == 'releve_certificat' %}
+        <a class="btn btn-outline-orange" href="{% url 'documents:download' demande.transaction_id 'certificat' %}">{% trans "IMPRIMER E-DIPLÔME" %}</a>
+      {% endif %}
+      {% if demande.type_document == 'releve' or demande.type_document == 'releve_certificat' %}
+        <a class="btn btn-outline-orange" href="{% url 'documents:download' demande.transaction_id 'releve' %}">{% trans "IMPRIMER E-RELEVÉ" %}</a>
+      {% endif %}
+      <p class="verification-hint">{% trans "Chaque document comporte un code et un QR de vérification." %}</p>
+    </div>
+  {% endif %}
+</section>
+
+{% if step > 1 and step < 5 %}
+  <nav class="wizard-lower-nav" aria-label="{% trans 'Navigation du formulaire' %}">
+    <a class="btn btn-nav" href="{% url 'core:wizard_step' step|add:'-1' %}" aria-label="{% trans 'Étape précédente' %}">← <span>{% trans "Précédent" %}</span></a>
+  </nav>
+{% endif %}
+{% endblock %}

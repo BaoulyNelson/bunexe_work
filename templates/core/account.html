@@ -1,0 +1,75 @@
+{% extends "core/base.html" %} {% load i18n static %} {% block title %}
+{% trans "Inscription et connexion" %} | e-certificat{% endblock %} {% block content %}
+<section class="account-grid" aria-label="{% trans 'Compte utilisateur' %}">
+  <div class="account-brand">
+    <img src="{% static 'images/logo.png' %}" alt="MENFP BUNEXE" />
+  </div>
+  {% if mode == "login" %}
+  <section class="account-panel">
+    <h2>{% trans "Se connecter" %}</h2>
+    <form method="post">
+      {% csrf_token %}
+      <input type="hidden" name="action" value="login" />
+      <input type="hidden" name="next" value="{{ next|default:'' }}" />
+      {% if login_form.non_field_errors %}
+      <div class="alert alert-danger">{{ login_form.non_field_errors }}</div>
+      {% endif %} {% for field in login_form %}
+      <div class="mb-3">
+        <label class="form-label" for="{{ field.id_for_label }}"
+          >{{ field.label }}</label
+        >
+        {{ field }} {% for error in field.errors %}
+        <div class="field-error">{{ error }}</div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+      <button class="btn btn-menfp w-100" type="submit">
+        {% trans "Se connecter" %}
+      </button>
+    </form>
+    <a class="account-secondary-link" href="{% url 'core:password_reset' %}">
+      {% trans "Mot de passe oublié ?" %}
+    </a>
+    <p class="account-switch">
+      {% trans "Pas encore de compte ?" %}
+      <a href="{% url 'core:account' %}?mode=register"
+        >{% trans "Créer un compte" %}</a
+      >
+    </p>
+  </section>
+  {% else %}
+  <section class="account-panel">
+    <h2>{% trans "Créer un compte" %}</h2>
+    <form method="post">
+      {% csrf_token %}
+      <input type="hidden" name="action" value="register" />
+      {% if registration_form.non_field_errors %}
+      <div class="alert alert-danger">
+        {{ registration_form.non_field_errors }}
+      </div>
+      {% endif %} {% for field in registration_form %}
+      <div class="mb-3">
+        <label class="form-label" for="{{ field.id_for_label }}"
+          >{{ field.label }}</label
+        >
+        {{ field }} {% if field.help_text %}
+        <div class="form-text">{{ field.help_text }}</div>
+        {% endif %} {% for error in field.errors %}
+        <div class="field-error">{{ error }}</div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+      <button class="btn btn-menfp w-100" type="submit">
+        {% trans "Créer mon compte" %}
+      </button>
+    </form>
+    <p class="account-switch">
+      {% trans "Vous avez déjà un compte ?" %}
+      <a href="{% url 'core:account' %}?mode=login"
+        >{% trans "Se connecter" %}</a
+      >
+    </p>
+  </section>
+  {% endif %}
+</section>
+{% endblock %}

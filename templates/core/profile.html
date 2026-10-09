@@ -1,0 +1,38 @@
+{% extends "core/base.html" %} {% load i18n %} {% block title %}{% trans "Mon profil" %} 
+| e-certificat{% endblock %} {% block content %}
+<section class="account-grid profile-page">
+  <h2>{% trans "Mon profil" %}</h2>
+  <dl class="profile-details">
+    <dt>{% trans "Nom d'utilisateur" %}</dt>
+    <dd>{{ request.user.username }}</dd>
+  </dl>
+  <form method="post" class="profile-email-form">
+    {% csrf_token %}
+    <h3>{% trans "Adresse de récupération" %}</h3>
+    <p class="text-muted">
+      {% trans "Utilisez une adresse à laquelle vous avez accès pour réinitialiser votre mot de passe." %}
+    </p>
+    {% for field in form %}
+    <label class="form-label" for="{{ field.id_for_label }}"
+      >{{ field.label }}</label
+    >
+    {{ field }} {% for error in field.errors %}
+    <div class="field-error">{{ error }}</div>
+    {% endfor %} {% endfor %}
+    <button class="btn btn-menfp mt-3" type="submit">
+      {% trans "Enregistrer l'adresse" %}
+    </button>
+  </form>
+  <div class="profile-actions">
+    <a class="btn btn-outline-secondary" href="{% url 'core:password_change' %}"
+      >{% trans "Modifier mon mot de passe" %}</a
+    >
+    <form method="post" action="{% url 'core:logout' %}">
+      {% csrf_token %}
+      <button class="btn btn-outline-secondary" type="submit">
+        {% trans "Se déconnecter" %}
+      </button>
+    </form>
+  </div>
+</section>
+{% endblock %}

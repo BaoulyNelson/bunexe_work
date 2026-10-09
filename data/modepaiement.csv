@@ -1,0 +1,5 @@
+﻿id,code,libelle,logo,actif,gratuit,fournisseur
+1,sevis-gratis,SÈVIS GRATIS,,True,True,local
+2,moncash,MonCash,,False,False,moncash
+3,natcash,NatCash,,False,False,natcash
+4,carte-bancaire,Carte bancaire,,False,False,stripe

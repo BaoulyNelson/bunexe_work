@@ -1,0 +1,98 @@
+{% extends "core/base.html" %} {% load i18n %} {% block title %}Résultats |
+e-certificat{% endblock title %} {% block page_heading %}
+<h1 class="visually-hidden">Résultats</h1>
+{% endblock page_heading %} {% block content %}
+<section class="results-page">
+  <h1>{% trans "Résultat du Bac Haïtien" %} {{ result_year }}</h1>
+  <p class="results-verification-count">
+    <strong>{{ verification_count }}</strong> {% trans "Vérification(s)" %}
+  </p>
+  <form method="get" class="results-search" novalidate>
+    <input type="hidden" name="type_resultat" value="{{ result_type }}" />
+    {% if form.non_field_errors %}
+    <div class="alert alert-danger">{{ form.non_field_errors }}</div>
+    {% endif %} {{ form.matricule }} {% for error in form.matricule.errors %}
+    <div class="field-error">{{ error }}</div>
+    {% endfor %}
+    <div class="results-categories" aria-label="{% trans 'Type de résultat' %}">
+      <button
+        class="result-category result-category-bac"
+        type="submit"
+        name="type_resultat"
+        value="bac_unique"
+      >
+        {% trans "BAC UNIQUE" %}
+      </button>
+      <button
+        class="result-category result-category-ns4"
+        type="submit"
+        name="type_resultat"
+        value="perm_ns4"
+      >
+        {% trans "PERM. NS4" %}
+      </button>
+      <button
+        class="result-category result-category-philo"
+        type="submit"
+        name="type_resultat"
+        value="perm_philo"
+      >
+        {% trans "PERM. PHILO" %}
+      </button>
+      <button
+        class="result-category result-category-9e"
+        type="submit"
+        name="type_resultat"
+        value="9e_af"
+      >
+        {% trans "9ÈME A.F" %}
+      </button>
+    </div>
+  </form>
+  {% if category_error %}
+  <p class="alert alert-info results-notice">{{ category_error }}</p>
+  {% endif %} {% if candidat %}
+  <section class="result-panel results-record" aria-live="polite">
+    <header class="results-record-header">
+      <h2>{{ candidat.nom }} {{ candidat.prenom }}</h2>
+      <span>{{ candidat.code }}</span>
+    </header>
+    {% if matieres %}
+    <div class="results-table-wrap">
+      <table class="table results-subject-table">
+        <thead>
+          <tr>
+            <th scope="col">{% trans "Matière" %}</th>
+            <th scope="col">{% trans "Note" %}</th>
+            <th scope="col">{% trans "Coefficient" %}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for item in matieres %}
+          <tr{% if item.is_failing %} class="is-failing"{% endif %}>
+            <td>{{ item.matiere }}</td>
+            <td>{{ item.note }}</td>
+            <td>{{ item.coefficient }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% else %}
+    <p class="results-no-subjects">{% trans "Le détail par matière n’est pas disponible pour ce dossier." %}</p>
+    {% endif %}
+    <footer class="results-record-summary">
+      {{ result_score }} {% trans "sur" %} {{ candidat.total_sur }} — {% trans "Mention" %} : {{ result_mention }}
+    </footer>
+    <div class="results-downloads">
+      <a
+        class="btn btn-menfp"
+        href="{% url 'core:result_ticket' %}?matricule={{ candidat.code }}&amp;type_resultat={{ result_type }}"
+      >
+        {% trans "Télécharger le résultat (ticket PDF)" %}
+      </a>
+    </div>
+  </section>
+  {% endif %}
+</section>
+{% endblock content %}

@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ht\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Inscription"
+msgstr "Enskripsyon"
+
+msgid "demande Resultat bac"
+msgstr "Mande rezilta bakaloreya"
+
+msgid "e-document"
+msgstr "e-dokiman"
+
+msgid "Verification diplome"
+msgstr "Verifye diplòm"
+
+msgid "Année d'examen"
+msgstr "Ane egzamen an"
+
+msgid "Numéro de candidat / code"
+msgstr "Nimewo kandida / kòd"
+
+msgid "Nom"
+msgstr "Siyati"
+
+msgid "Prénom"
+msgstr "Non"
+
+msgid "Téléphone"
+msgstr "Telefòn"
+
+msgid "RECHERCHER"
+msgstr "CHÈCHE"
+
+msgid "Données sur le candidat"
+msgstr "Enfòmasyon sou kandida a"
+
+msgid "Je veux imprimer :"
+msgstr "Mwen vle enprime :"
+
+msgid "CONTINUER"
+msgstr "KONTINYE"
+
+msgid "Mode de Paiement"
+msgstr "Metòd peman"
+
+msgid "PROCEDER AU PAIEMENT"
+msgstr "KONTINYE AK PEMAN AN"
+
+msgid "Info. Transaction"
+msgstr "Enfòmasyon sou tranzaksyon an"
+
+msgid "Info Personnelle"
+msgstr "Enfòmasyon pèsonèl"
+
+msgid "Choix documents"
+msgstr "Chwazi dokiman yo"
+
+msgid "Mode Paiement"
+msgstr "Metòd peman"
+
+msgid "Id. Trx Mode Paiement"
+msgstr "ID tranzaksyon peman an"
+
+msgid "Impression documents"
+msgstr "Enprime dokiman yo"
+
+msgid "Information Personnelle"
+msgstr "Enfòmasyon pèsonèl"
+
+msgid "Relevé seulement"
+msgstr "Relev nòt sèlman"
+
+msgid "Certificat seulement"
+msgstr "Sètifika sèlman"
+
+msgid "Relevé + Certificat"
+msgstr "Relev nòt + Sètifika"
+
+msgid "E-relevé"
+msgstr "E-relev nòt"
+
+msgid "E-diplôme"
+msgstr "E-diplòm"
+
+msgid "Admis"
+msgstr "Admis"
+
+msgid "Échoué"
+msgstr "Echwe"
+
+msgid "Échoué : aucun document n'est disponible pour ce dossier."
+msgstr "Echwe : pa gen okenn dokiman ki disponib pou dosye sa a."
+
+msgid "né(e) le"
+msgstr "fèt nan dat"
+
+msgid "a participé aux examens du bac"
+msgstr "te patisipe nan egzamen bakaloreya"
+
+msgid "et a obtenu la note de"
+msgstr "epi li jwenn nòt"
+
+msgid "sur"
+msgstr "sou"
+
+msgid "Mention"
+msgstr "Mansyon"
+
+msgid "Document authentique"
+msgstr "Dokiman otantik"
+
+msgid "Aucun document ne correspond à ce code."
+msgstr "Pa gen dokiman ki koresponn ak kòd sa a."
+
+msgid "IMPRIMER E-DIPLÔME"
+msgstr "ENPRIME E-DIPLOM"
+
+msgid "IMPRIMER E-RELEVÉ"
+msgstr "ENPRIME E-RELEV NÒT"
+
+msgid "Chaque document comporte un code et un QR de vérification."
+msgstr "Chak dokiman gen yon kòd ak yon QR pou verifikasyon."
+
+msgid "VÉRIFIER LE PAIEMENT"
+msgstr "VERIFYE PEMAN AN"
+
+msgid "Demande de document"
+msgstr "Demann dokiman"
+
+msgid "MENFP · Ministère de l'Éducation Nationale et de la Formation Professionnelle"
+msgstr "MENFP · Ministè Edikasyon Nasyonal ak Fòmasyon Pwofesyonèl"

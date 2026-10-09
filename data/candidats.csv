@@ -1,0 +1,121 @@
+type_resultat,annee,code,nom,prenom,date_naissance,lieu_naissance,telephone,total_points,total_sur,mention,statut,serie,ecole
+bac_unique,2025,0352992312,BEAUVOIR,Rodlin,2003-04-21,Cap-Haïtien,+50947051998,1065.00,1900,Passable,admis,SES,Collège Canado-Haïtien
+bac_unique,2024,0917874421,CHARLES,Mica,2003-10-07,Carrefour,+50947814983,1079.00,1900,Passable,admis,SMP,Collège Notre-Dame du Perpétuel Secours
+bac_unique,2025,1060825377,CADET,Rachelle,2003-02-17,Delmas,+50937793919,1334.00,1900,Bien,admis,SVT,Collège Notre-Dame du Perpétuel Secours
+bac_unique,2024,0856599395,MATHURIN,Johnny,2003-02-09,Carrefour,+50934063616,1316.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier
+bac_unique,2026,1091434105,AUGUSTIN,Esther,2006-07-28,Carrefour,+50934174447,1174.00,1900,Assez bien,admis,SES,Lycée de Jacmel
+bac_unique,2025,0937290936,EXANTUS,Dieuseul,2004-01-16,Jérémie,+50942295625,1316.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion
+bac_unique,2024,0771751584,TELFORT,Lovely,2006-07-13,Miragoâne,+50934504913,1167.00,1900,Assez bien,admis,SVT,Collège Jean Price Mars
+bac_unique,2025,0125583179,SÉNAT,Darline,2003-02-28,Hinche,+50947155766,1296.00,1900,Assez bien,admis,LA,Collège Jean Price Mars
+bac_unique,2025,0680836544,MICHEL,Bedjine,2003-04-17,Petit-Goâve,+50937723588,1076.00,1900,Passable,admis,SES,Collège Catts Pressoir
+bac_unique,2024,0940008920,EXANTUS,Darline,2004-04-27,Miragoâne,+50938209629,1413.00,1900,Bien,admis,SMP,Collège Catts Pressoir
+bac_unique,2025,0698113695,RÉMY,Gaëlle,2003-04-04,Fort-Liberté,+50948206261,850.00,1900,,ajourne,SVT,Collège Notre-Dame du Perpétuel Secours
+bac_unique,2024,0883760773,TOUSSAINT,Kerline,2004-08-06,Delmas,+50944090963,1431.00,1900,Bien,admis,LA,Institution Saint-Joseph
+bac_unique,2025,0799771111,SIMÉON,Sabrina,2004-09-18,Gonaïves,+50931014934,1445.00,1900,Bien,admis,SES,Collège Jean Price Mars
+bac_unique,2024,0918689916,AUGUSTIN,Rodlin,2005-08-22,Delmas,+50937557658,843.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague
+bac_unique,2026,0902510524,JOSEPH,Davidson,2006-02-18,Cap-Haïtien,+50938200599,1259.00,1900,Assez bien,admis,SVT,Lycée Philippe Guerrier
+bac_unique,2024,0268144218,JACQUES,Franky,2006-09-08,Port-de-Paix,+50938880803,1055.00,1900,Passable,admis,LA,Lycée de Jacmel
+bac_unique,2024,0716323822,SÉNAT,Widlene,2005-03-15,Fort-Liberté,+50934417602,1031.00,1900,Passable,admis,SES,Lycée de Jacmel
+bac_unique,2024,0421671607,TOUSSAINT,Naïka,2005-09-03,Jacmel,+50938918963,747.00,1900,,ajourne,SMP,Lycée Toussaint Louverture
+bac_unique,2024,0536496546,THOMAS,Fabienne,2006-12-11,Les Cayes,+50942060320,1254.00,1900,Assez bien,admis,SVT,Collège Saint-Louis de Gonzague
+bac_unique,2025,0236094290,PÉTION,Lovely,2006-05-20,Gonaïves,+50931552510,1314.00,1900,Assez bien,admis,LA,Collège Canado-Haïtien
+bac_unique,2024,0335150991,GEORGES,Stevenson,2003-01-24,Hinche,+50948257613,1204.00,1900,Assez bien,admis,SES,Lycée de Jacmel
+bac_unique,2024,0788115205,VALCIN,Sabrina,2003-03-01,Les Cayes,+50942451664,641.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague
+bac_unique,2024,0289285347,CADET,Wilson,2005-06-11,Léogâne,+50938036120,818.00,1900,,ajourne,SVT,Lycée Philippe Guerrier
+bac_unique,2024,0624556192,SAINT-FLEUR,Widlene,2006-10-02,Miragoâne,+50931314201,1312.00,1900,Assez bien,admis,LA,Lycée Philippe Guerrier
+bac_unique,2026,0411339077,OCCÉAN,Emmanuela,2004-01-27,Delmas,+50937954086,775.00,1900,,ajourne,SES,Collège Catts Pressoir
+bac_unique,2026,1002158188,CADET,Lovely,2003-11-01,Fort-Liberté,+50948276606,1185.00,1900,Assez bien,admis,SMP,Lycée Alexandre Pétion
+bac_unique,2025,0267507631,DORVIL,Stéphanie,2006-08-28,Miragoâne,+50934502278,1091.00,1900,Passable,admis,SVT,Collège Jean Price Mars
+bac_unique,2025,0182808850,ÉLIE,Rodlin,2006-05-22,Jacmel,+50938708530,868.00,1900,,ajourne,LA,Lycée de Jacmel
+bac_unique,2025,0938325005,CADET,Daniel,2006-04-07,Les Cayes,+50934148625,1087.00,1900,Passable,admis,SES,Collège Catts Pressoir
+bac_unique,2025,0617797951,TELFORT,Franky,2006-05-24,Gonaïves,+50947360668,875.00,1900,,ajourne,SMP,Institution Saint-Joseph
+perm_ns4,2025,0244469603,VALCIN,Mirlande,2003-06-14,Port-de-Paix,+50931294269,1321.00,1900,Assez bien,admis,SES,Lycée Toussaint Louverture
+perm_ns4,2024,0585223357,PAUL,Judith,2004-12-03,Cap-Haïtien,+50947472761,1115.00,1900,Passable,admis,SMP,Lycée Pierre Gentil
+perm_ns4,2024,0565172784,RAYMOND,Esther,2005-08-18,Miragoâne,+50934175460,1390.00,1900,Bien,admis,SVT,Collège Jean Price Mars
+perm_ns4,2024,0227900177,PREVIL,Naïka,2003-06-08,Petit-Goâve,+50942848673,697.00,1900,,ajourne,LA,Lycée Pierre Gentil
+perm_ns4,2024,0155402616,HYPPOLITE,Ruth,2004-02-09,Fort-Liberté,+50947419175,981.00,1900,Passable,admis,SES,Collège Jean Price Mars
+perm_ns4,2025,0741878080,VALCIN,Bedjine,2006-08-08,Jacmel,+50938161877,1158.00,1900,Assez bien,admis,SMP,Collège Saint-Louis de Gonzague
+perm_ns4,2026,0296869670,MOMPREMIER,Daphnée,2005-09-21,Delmas,+50934104275,954.00,1900,Passable,admis,SVT,Lycée Toussaint Louverture
+perm_ns4,2025,0978234302,FLEURY,Carl-Henry,2004-09-08,Port-au-Prince,+50947738882,1158.00,1900,Assez bien,admis,LA,Collège Jean Price Mars
+perm_ns4,2025,0102924253,ZAMOR,Gaëlle,2006-04-01,Saint-Marc,+50934215187,1300.00,1900,Assez bien,admis,SES,Lycée de Jacmel
+perm_ns4,2024,0526029282,SIMÉON,Rodlin,2004-07-02,Hinche,+50931625084,1130.00,1900,Passable,admis,SMP,Collège Saint-Louis de Gonzague
+perm_ns4,2025,0195275607,HYPPOLITE,Johnny,2003-05-22,Miragoâne,+50944347810,1267.00,1900,Assez bien,admis,SVT,Lycée de Jacmel
+perm_ns4,2024,0200385302,BEAUVOIR,Kevin,2003-12-16,Hinche,+50944567834,1075.00,1900,Passable,admis,LA,Lycée de Jacmel
+perm_ns4,2024,0648888654,JOSEPH,Samuel,2004-12-03,Léogâne,+50944285542,857.00,1900,,ajourne,SES,Collège Notre-Dame du Perpétuel Secours
+perm_ns4,2026,0135188193,EXANTUS,Christopher,2006-12-15,Miragoâne,+50942957920,944.00,1900,,ajourne,SMP,Institution Saint-Joseph
+perm_ns4,2025,0366644552,NELSON,Kevin,2004-07-25,Jérémie,+50938427563,1173.00,1900,Assez bien,admis,SVT,Lycée Toussaint Louverture
+perm_ns4,2026,0164651324,CADET,Rose-Marie,2004-03-14,Pétion-Ville,+50938784310,955.00,1900,Passable,admis,LA,Collège Catts Pressoir
+perm_ns4,2026,0239449733,MATHURIN,Marie-Ange,2005-02-13,Port-de-Paix,+50938531968,1098.00,1900,Passable,admis,SES,Collège Catts Pressoir
+perm_ns4,2024,0287688005,JOSEPH,Marie-Ange,2004-02-12,Jérémie,+50948632335,966.00,1900,Passable,admis,SMP,Lycée Philippe Guerrier
+perm_ns4,2026,0114197559,DORVIL,Wilson,2005-07-22,Petit-Goâve,+50937651180,1027.00,1900,Passable,admis,SVT,Lycée Philippe Guerrier
+perm_ns4,2024,0404223373,JACQUES,Vanessa,2005-11-10,Delmas,+50931327535,1041.00,1900,Passable,admis,LA,Lycée Pierre Gentil
+perm_ns4,2025,0755894353,DÉSIR,Kevin,2006-10-12,Pétion-Ville,+50937136288,958.00,1900,Passable,admis,SES,Lycée Alexandre Pétion
+perm_ns4,2024,0919125597,CHARLES,Christopher,2006-08-25,Hinche,+50942132802,686.00,1900,,ajourne,SMP,Lycée Alexandre Pétion
+perm_ns4,2025,0607163810,OCCÉAN,Marie-Ange,2006-03-19,Hinche,+50931419163,771.00,1900,,ajourne,SVT,Collège Catts Pressoir
+perm_ns4,2024,0748212037,DÉSIR,Mirlande,2006-09-28,Saint-Marc,+50947323183,1135.00,1900,Passable,admis,LA,Lycée Pierre Gentil
+perm_ns4,2024,0752239157,DELVA,Rose-Marie,2006-07-04,Les Cayes,+50937375993,1069.00,1900,Passable,admis,SES,Institution Saint-Joseph
+perm_ns4,2025,0259319824,TOUSSAINT,Emmanuela,2004-01-28,Les Cayes,+50934203116,933.00,1900,,ajourne,SMP,Collège Saint-Louis de Gonzague
+perm_ns4,2025,0522160892,DELVA,Widlene,2005-09-16,Hinche,+50942645782,808.00,1900,,ajourne,SVT,Collège Catts Pressoir
+perm_ns4,2024,0649964824,HYPPOLITE,Rodlin,2005-08-18,Jacmel,+50942561723,1149.00,1900,Assez bien,admis,LA,Collège Jean Price Mars
+perm_ns4,2025,0635534696,HYPPOLITE,Samuel,2005-11-28,Léogâne,+50931783411,978.00,1900,Passable,admis,SES,Lycée Alexandre Pétion
+perm_ns4,2024,0339053549,RÉMY,Peterson,2003-09-12,Fort-Liberté,+50947611939,923.00,1900,,ajourne,SMP,Lycée Philippe Guerrier
+perm_philo,2026,0327405162,SIMÉON,Daniel,2005-05-01,Cap-Haïtien,+50944623613,915.00,1900,,ajourne,Philo A,Collège Jean Price Mars
+perm_philo,2026,0880783162,FLEURY,Natasha,2002-02-01,Hinche,+50937433248,1025.00,1900,Passable,admis,Philo C,Collège Canado-Haïtien
+perm_philo,2026,1086260886,INNOCENT,Wilson,2005-07-24,Pétion-Ville,+50934777786,899.00,1900,,ajourne,Philo D,Collège Jean Price Mars
+perm_philo,2025,0330326282,GEORGES,Kerline,2002-05-21,Delmas,+50942309976,1019.00,1900,Passable,admis,Philo A,Collège Jean Price Mars
+perm_philo,2024,0268105910,FLEURY,Mirlande,2005-08-27,Port-au-Prince,+50931458452,1072.00,1900,Passable,admis,Philo C,Collège Canado-Haïtien
+perm_philo,2026,0528449609,MICHEL,Sabrina,2003-12-01,Port-au-Prince,+50931145125,913.00,1900,,ajourne,Philo D,Collège Jean Price Mars
+perm_philo,2026,0193550793,TOUSSAINT,Christopher,2003-04-07,Jacmel,+50931036099,1054.00,1900,Passable,admis,Philo A,Collège Jean Price Mars
+perm_philo,2024,0564037337,GEORGES,Rachelle,2002-12-25,Petit-Goâve,+50944806603,874.00,1900,,ajourne,Philo C,Lycée Pierre Gentil
+perm_philo,2026,0838607563,SAINT-FLEUR,Mica,2004-03-14,Port-au-Prince,+50938302340,943.00,1900,,ajourne,Philo D,Lycée Alexandre Pétion
+perm_philo,2024,0665877147,LAMOUR,Natasha,2004-04-23,Fort-Liberté,+50948173844,982.00,1900,Passable,admis,Philo A,Lycée Toussaint Louverture
+perm_philo,2026,0265805838,RAYMOND,Mackenson,2004-04-10,Port-de-Paix,+50947944993,990.00,1900,Passable,admis,Philo C,Collège Catts Pressoir
+perm_philo,2026,0350909474,LOUIS,Sabrina,2004-09-05,Pétion-Ville,+50944177786,874.00,1900,,ajourne,Philo D,Lycée de Jacmel
+perm_philo,2025,0577734850,THOMAS,Esther,2004-10-17,Petit-Goâve,+50937247687,1095.00,1900,Passable,admis,Philo A,Collège Notre-Dame du Perpétuel Secours
+perm_philo,2024,0597808793,MOMPREMIER,Roody,2004-04-04,Jacmel,+50942216472,997.00,1900,Passable,admis,Philo C,Institution Saint-Joseph
+perm_philo,2025,0101693465,FLEURY,Roody,2005-04-22,Fort-Liberté,+50937672702,797.00,1900,,ajourne,Philo D,Lycée Toussaint Louverture
+perm_philo,2025,0742012065,BEAUVOIR,Carl-Henry,2005-01-20,Delmas,+50937937945,858.00,1900,,ajourne,Philo A,Collège Jean Price Mars
+perm_philo,2025,0152171561,LAMOUR,Johnny,2003-12-16,Port-au-Prince,+50944547029,1038.00,1900,Passable,admis,Philo C,Collège Notre-Dame du Perpétuel Secours
+perm_philo,2025,0828197723,GEORGES,Daniel,2005-07-02,Port-au-Prince,+50934438915,1220.00,1900,Assez bien,admis,Philo D,Institution Saint-Joseph
+perm_philo,2026,0677869804,AUGUSTIN,Jean-Marc,2003-08-21,Fort-Liberté,+50937370285,1102.00,1900,Passable,admis,Philo A,Collège Jean Price Mars
+perm_philo,2026,0762827436,TOUSSAINT,Hermane,2004-07-22,Jérémie,+50948002825,1037.00,1900,Passable,admis,Philo C,Lycée Philippe Guerrier
+perm_philo,2025,0487832447,LAMOUR,Davidson,2003-09-27,Petit-Goâve,+50931689232,977.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion
+perm_philo,2024,0288041023,DORVIL,Judith,2003-10-23,Les Cayes,+50942206957,906.00,1900,,ajourne,Philo A,Lycée de Jacmel
+perm_philo,2026,0471242163,ÉLIE,Johnny,2003-12-16,Fort-Liberté,+50948172612,1310.00,1900,Assez bien,admis,Philo C,Collège Catts Pressoir
+perm_philo,2026,0121522806,TELFORT,Jean-Marc,2003-11-12,Port-au-Prince,+50931639290,966.00,1900,Passable,admis,Philo D,Lycée Alexandre Pétion
+perm_philo,2026,0612613208,ÉLIE,Bedjine,2003-05-14,Léogâne,+50947263792,916.00,1900,,ajourne,Philo A,Collège Catts Pressoir
+perm_philo,2024,0539310067,FILS-AIMÉ,Fabrice,2004-04-11,Saint-Marc,+50937614938,923.00,1900,,ajourne,Philo C,Collège Jean Price Mars
+perm_philo,2024,0153536544,SIMÉON,Rodlin,2005-10-05,Les Cayes,+50938041391,961.00,1900,Passable,admis,Philo D,Collège Jean Price Mars
+perm_philo,2026,0883923346,SÉNAT,Daphnée,2004-09-23,Port-de-Paix,+50942193752,1048.00,1900,Passable,admis,Philo A,Institution Saint-Joseph
+perm_philo,2024,0602736975,VALCIN,Franky,2002-01-22,Miragoâne,+50937498543,966.00,1900,Passable,admis,Philo C,Institution Saint-Joseph
+perm_philo,2026,0211129969,SAINT-FLEUR,Jessica,2002-03-16,Port-au-Prince,+50942754294,870.00,1900,,ajourne,Philo D,Lycée Pierre Gentil
+9e_af,2024,0898456410,JOSEPH,Kerline,2008-01-02,Port-au-Prince,+50934407842,1318.00,2700,,ajourne,,Lycée Philippe Guerrier
+9e_af,2025,1022279744,ZAMOR,Carl-Henry,2009-08-09,Léogâne,+50942293503,2042.00,2700,Bien,admis,,Lycée Alexandre Pétion
+9e_af,2026,1044565657,CADET,Rachelle,2010-01-11,Port-de-Paix,+50942443023,1822.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague
+9e_af,2026,0138724692,TOUSSAINT,Marie-Ange,2010-04-10,Cap-Haïtien,+50947487926,1839.00,2700,Assez bien,admis,,Collège Canado-Haïtien
+9e_af,2025,1001257568,CÉLESTIN,Jessica,2008-02-06,Saint-Marc,+50944605936,1578.00,2700,Passable,admis,,Lycée Pierre Gentil
+9e_af,2025,0769419739,ÉTIENNE,Stevenson,2008-10-16,Hinche,+50942970452,1708.00,2700,Assez bien,admis,,Lycée Philippe Guerrier
+9e_af,2025,0259976769,CHARLES,Widly,2010-07-04,Les Cayes,+50942334192,1655.00,2700,Assez bien,admis,,Lycée Pierre Gentil
+9e_af,2024,0289888496,JOSEPH,Samuel,2010-12-24,Carrefour,+50931105965,1522.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague
+9e_af,2025,0126702843,TELFORT,Wilson,2009-12-07,Cap-Haïtien,+50937972741,1412.00,2700,Passable,admis,,Collège Canado-Haïtien
+9e_af,2024,1050076021,THOMAS,Naïka,2008-12-02,Jérémie,+50948580254,1637.00,2700,Assez bien,admis,,Collège Saint-Louis de Gonzague
+9e_af,2025,0335755171,PAUL,Dieuseul,2008-09-16,Saint-Marc,+50934270315,1532.00,2700,Passable,admis,,Collège Canado-Haïtien
+9e_af,2025,0735100994,AUGUSTIN,Franky,2008-09-10,Jérémie,+50944456392,2192.00,2700,Très bien,admis,,Lycée Alexandre Pétion
+9e_af,2025,0437157808,OCCÉAN,Dieuseul,2010-11-26,Hinche,+50942212117,1466.00,2700,Passable,admis,,Lycée Alexandre Pétion
+9e_af,2024,0954777338,FLEURY,Rose-Marie,2010-06-02,Jérémie,+50944602847,1873.00,2700,Assez bien,admis,,Lycée Pierre Gentil
+9e_af,2024,0669769460,ÉTIENNE,Nixon,2009-09-01,Gonaïves,+50931255367,2282.00,2700,Très bien,admis,,Lycée Toussaint Louverture
+9e_af,2024,1024480485,CADET,Christopher,2009-02-23,Jérémie,+50931286274,1639.00,2700,Assez bien,admis,,Lycée Toussaint Louverture
+9e_af,2025,0878638446,PAUL,Mirlande,2010-07-20,Cap-Haïtien,+50947987016,1473.00,2700,Passable,admis,,Lycée Alexandre Pétion
+9e_af,2025,0653781956,FLEURY,Roody,2010-11-01,Petit-Goâve,+50934556582,1563.00,2700,Passable,admis,,Collège Saint-Louis de Gonzague
+9e_af,2024,0658121716,OCCÉAN,Daniel,2010-10-09,Cap-Haïtien,+50934262753,1868.00,2700,Assez bien,admis,,Lycée Toussaint Louverture
+9e_af,2026,0158209057,CADET,Fabrice,2010-03-10,Delmas,+50942287427,1613.00,2700,Passable,admis,,Collège Canado-Haïtien
+9e_af,2026,0299375286,FLEURY,Naïka,2008-04-17,Miragoâne,+50947012455,861.00,2700,,ajourne,,Collège Notre-Dame du Perpétuel Secours
+9e_af,2024,0443480170,CADET,Sabrina,2010-02-17,Fort-Liberté,+50937436995,1423.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours
+9e_af,2026,0618834400,AUGUSTIN,Vanessa,2008-01-14,Jacmel,+50948416802,1131.00,2700,,ajourne,,Lycée Pierre Gentil
+9e_af,2024,0737488161,FILS-AIMÉ,Mirlande,2009-05-06,Saint-Marc,+50937456807,1753.00,2700,Assez bien,admis,,Lycée Pierre Gentil
+9e_af,2025,1031130092,FILS-AIMÉ,Peterson,2010-05-18,Delmas,+50947408438,2196.00,2700,Très bien,admis,,Lycée de Jacmel
+9e_af,2025,0179822036,VALCIN,Franky,2010-10-11,Les Cayes,+50937380336,1458.00,2700,Passable,admis,,Collège Notre-Dame du Perpétuel Secours
+9e_af,2025,0241692052,CÉLESTIN,Vanessa,2008-01-21,Jacmel,+50944597548,1392.00,2700,Passable,admis,,Collège Jean Price Mars
+9e_af,2026,0192843657,JACQUES,Emmanuela,2010-09-05,Hinche,+50947630972,1200.00,2700,,ajourne,,Lycée Toussaint Louverture
+9e_af,2024,0369581669,FLEURY,Sabrina,2009-03-02,Port-de-Paix,+50934901070,1438.00,2700,Passable,admis,,Lycée Pierre Gentil
+9e_af,2024,0625723203,NOËL,Wilson,2009-05-14,Port-de-Paix,+50948995844,1307.00,2700,,ajourne,,Lycée Toussaint Louverture

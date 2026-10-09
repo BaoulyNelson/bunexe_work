@@ -1,0 +1,13 @@
+Django==4.2.16
+PyMySQL==1.1.1
+python-decouple>=3.8,<4
+django-ratelimit>=4.1,<5
+django-crispy-forms>=2.3,<3
+crispy-bootstrap5>=2024.10
+reportlab>=4.2,<5
+qrcode[pil]>=8,<9
+openpyxl>=3.1,<4
+pytest>=8.3,<9
+pytest-django>=4.9,<5
+gunicorn>=23,<24
+whitenoise>=6.9,<7

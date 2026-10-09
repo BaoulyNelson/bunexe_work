@@ -1,0 +1,15 @@
+{% extends "core/base.html" %} {% load i18n %} {% block title %}e-document |
+MENFP{% endblock %} {% block content %}
+<section class="wizard-card public-card">
+  <header class="wizard-card-header">{% trans "Documents numériques" %}</header>
+  <div class="wizard-card-body information-panel">
+    <p>
+      {% trans "Demandez votre relevé de notes ou votre certificat du baccalauréat en ligne." %}
+      
+    </p>
+    <a class="btn btn-menfp" href="{% url 'core:new_request' %}"
+      >{% trans "COMMENCER UNE DEMANDE" %}</a
+    >
+  </div>
+</section>
+{% endblock %}

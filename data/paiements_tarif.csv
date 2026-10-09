@@ -1,0 +1,4 @@
+﻿id,type_document,prix,devise,actif
+1,releve,150.00,HTG,True
+2,certificat,250.00,HTG,True
+3,releve_certificat,400.00,HTG,True
